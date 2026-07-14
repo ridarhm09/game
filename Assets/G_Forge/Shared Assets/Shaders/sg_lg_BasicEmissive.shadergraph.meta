@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d837d50d5d32bd749965f730552b64ac
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 336282
+  packageName: 'Sci-Fi Room - Low-Poly Asset Pack 01 [DEMO]'
+  packageVersion: 1.0
+  assetPath: Assets/G_Forge/Shared Assets/Shaders/sg_lg_BasicEmissive.shadergraph
+  uploadId: 807498
