@@ -15,49 +15,92 @@ public class UIManagerDonimal : MonoBehaviour
         ShowSplashPanel();
     }
 
+    private void Update()
+    {
+        // Testing sementara: tekan Space untuk masuk ke Scan RFID
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            ShowScanRFIDPanel();
+        }
+    }
+
     private void HideAllPanels()
     {
-        splashPanel.SetActive(false);
-        scanRFIDPanel.SetActive(false);
-        dashboardPanel.SetActive(false);
-        categoryPanel.SetActive(false);
-        miniGamePanel.SetActive(false);
-        feedbackCharacterPanel.SetActive(false);
+        if (splashPanel != null) splashPanel.SetActive(false);
+        if (scanRFIDPanel != null) scanRFIDPanel.SetActive(false);
+        if (dashboardPanel != null) dashboardPanel.SetActive(false);
+        if (categoryPanel != null) categoryPanel.SetActive(false);
+        if (miniGamePanel != null) miniGamePanel.SetActive(false);
+        if (feedbackCharacterPanel != null) feedbackCharacterPanel.SetActive(false);
     }
 
     public void ShowSplashPanel()
     {
         HideAllPanels();
-        splashPanel.SetActive(true);
+
+        if (splashPanel != null)
+        {
+            splashPanel.SetActive(true);
+        }
     }
 
     public void ShowScanRFIDPanel()
     {
+        Debug.Log("Pindah ke ScanRFIDPanel");
+
         HideAllPanels();
-        scanRFIDPanel.SetActive(true);
+
+        if (scanRFIDPanel != null)
+        {
+            scanRFIDPanel.SetActive(true);
+        }
     }
 
     public void ShowDashboardPanel()
     {
+        Debug.Log("Pindah ke DashboardPanel");
+
         HideAllPanels();
-        dashboardPanel.SetActive(true);
+
+        if (dashboardPanel != null)
+        {
+            dashboardPanel.SetActive(true);
+        }
     }
 
     public void ShowCategoryPanel()
     {
+        Debug.Log("Pindah ke CategoryPanel");
+
         HideAllPanels();
-        categoryPanel.SetActive(true);
+
+        if (categoryPanel != null)
+        {
+            categoryPanel.SetActive(true);
+        }
     }
 
     public void ShowMiniGamePanel()
     {
+        Debug.Log("Pindah ke MiniGamePanel");
+
         HideAllPanels();
-        miniGamePanel.SetActive(true);
+
+        if (miniGamePanel != null)
+        {
+            miniGamePanel.SetActive(true);
+        }
     }
 
     public void ShowFeedbackCharacterPanel()
     {
+        Debug.Log("Pindah ke FeedbackCharacterPanel");
+
         HideAllPanels();
-        feedbackCharacterPanel.SetActive(true);
+
+        if (feedbackCharacterPanel != null)
+        {
+            feedbackCharacterPanel.SetActive(true);
+        }
     }
 }
