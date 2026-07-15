@@ -1,1 +1,0 @@
-Free for use in commercial and non-commercial game projects.
