@@ -1,0 +1,363 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b52cb525d41f7844cab3383760077c43, type: 3}
+  m_Name: LocalQuestionImageCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::LocalQuestionImageCatalog
+  categories:
+  - name: Huruf
+    subgames:
+    - name: Bunyi
+      entries:
+      - label: a
+        questionId: 
+        questionImage: {fileID: 21300000, guid: f2bb9b2bddda8ea479e74760acb38d16, type: 3}
+        answerImage: {fileID: 0}
+      - label: b
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 0c483542d6cd99346923315ccdfffbc4, type: 3}
+        answerImage: {fileID: 0}
+      - label: c
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 02ec450b2d628ef43a3e46f4cb8011c3, type: 3}
+        answerImage: {fileID: 0}
+      - label: d
+        questionId: 
+        questionImage: {fileID: 21300000, guid: ef269c2b513b72b4c890dec0764cc809, type: 3}
+        answerImage: {fileID: 0}
+      - label: e
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 554ac7f073c7dfe4289ecbd2f1c0418a, type: 3}
+        answerImage: {fileID: 0}
+      - label: f
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 926db0f5b77dce5468b36830877feab2, type: 3}
+        answerImage: {fileID: 0}
+      - label: g
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 4a8f9d7cddf5d504d880946464cdbead, type: 3}
+        answerImage: {fileID: 0}
+      - label: h
+        questionId: 
+        questionImage: {fileID: 21300000, guid: f2bb2cdbc7f70b34a9bd8158f7f79bf7, type: 3}
+        answerImage: {fileID: 0}
+      - label: i
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 66f45b9e48ac99843bddcb912e10dd65, type: 3}
+        answerImage: {fileID: 0}
+      - label: j
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 0d0a64eef02ad3c4fbee91d3f72b5d8d, type: 3}
+        answerImage: {fileID: 0}
+      - label: k
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 193bdbb0271ae214b9e45ab93d5a9d29, type: 3}
+        answerImage: {fileID: 0}
+      - label: l
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 5d357efd82d6b234da424e4ca7b5258f, type: 3}
+        answerImage: {fileID: 0}
+      - label: m
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 2ad3a4f23cd4ac14f9d4a8849aa796f0, type: 3}
+        answerImage: {fileID: 0}
+      - label: n
+        questionId: 
+        questionImage: {fileID: 21300000, guid: e326f1734cfd8e347a60a9cec925be20, type: 3}
+        answerImage: {fileID: 0}
+      - label: o
+        questionId: 
+        questionImage: {fileID: 21300000, guid: dcdcc7a553b33214289062151ef4861c, type: 3}
+        answerImage: {fileID: 0}
+      - label: p
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 11775ea3bf8548c44adfc118c46b8c27, type: 3}
+        answerImage: {fileID: 0}
+      - label: q
+        questionId: 
+        questionImage: {fileID: 21300000, guid: f7215ccb66942bb4492bb2dda0e2a298, type: 3}
+        answerImage: {fileID: 0}
+      - label: r
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 74528aaeec303e444a232ab54624af2f, type: 3}
+        answerImage: {fileID: 0}
+      - label: s
+        questionId: 
+        questionImage: {fileID: 21300000, guid: bcf1e8bf4b94acc41bb01056653b0e28, type: 3}
+        answerImage: {fileID: 0}
+      - label: t
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 60d09825cd37c9941bb340da6b6c6713, type: 3}
+        answerImage: {fileID: 0}
+      - label: u
+        questionId: 
+        questionImage: {fileID: 21300000, guid: cfe8a9ef8ccb858458cbc6681931b20b, type: 3}
+        answerImage: {fileID: 0}
+      - label: v
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 463e25f4c6f2ff044a68c12534c9a7d8, type: 3}
+        answerImage: {fileID: 0}
+      - label: w
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 6a75965b5494dc24da5621d190cb1231, type: 3}
+        answerImage: {fileID: 0}
+      - label: x
+        questionId: 
+        questionImage: {fileID: 21300000, guid: f093092e4527e2f4baaef59e23d7cb7b, type: 3}
+        answerImage: {fileID: 0}
+      - label: y
+        questionId: 
+        questionImage: {fileID: 21300000, guid: be7135a2db68a674794243e9be1a1199, type: 3}
+        answerImage: {fileID: 0}
+      - label: z
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 7b80e90d70ccd1646acf20f88a0d2645, type: 3}
+        answerImage: {fileID: 0}
+    - name: lengkapi
+      entries:
+      - label: b
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 5e741ba28cb4cad47a29b26fe9a08a5b, type: 3}
+        answerImage: {fileID: 21300000, guid: d96dbb6a32be61f4980573ec88e11255, type: 3}
+      - label: j
+        questionId: 
+        questionImage: {fileID: 21300000, guid: b5fb20011d4e981408dfb333600e06c8, type: 3}
+        answerImage: {fileID: 21300000, guid: 1c0c10cee54ced94ab1349c8887ae418, type: 3}
+      - label: k
+        questionId: 
+        questionImage: {fileID: 21300000, guid: ce571182caf09054e9992f9464cd4806, type: 3}
+        answerImage: {fileID: 21300000, guid: e74f396d080e584408536a8b73d62308, type: 3}
+      - label: l
+        questionId: 
+        questionImage: {fileID: 21300000, guid: ff13a8e3e2a2b2e4b8e0067f98c7d159, type: 3}
+        answerImage: {fileID: 21300000, guid: e1aaeb7d4e1718d418a74853f4e99eb9, type: 3}
+      - label: p
+        questionId: 
+        questionImage: {fileID: 21300000, guid: e9f64521bc74c4845b7c8fab5d6b32fd, type: 3}
+        answerImage: {fileID: 21300000, guid: cdb086531e2186e45aed831e962b49f6, type: 3}
+      - label: t
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 14eb1a3ca2c90874699000f7784d2e73, type: 3}
+        answerImage: {fileID: 21300000, guid: b436f329d876a6246a5315747ce9db19, type: 3}
+      - label: u
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 58174f03a4938e045ada65ec45a0b6a8, type: 3}
+        answerImage: {fileID: 21300000, guid: ffc7a7e05909c20448c18aa950f11832, type: 3}
+      - label: y
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 8aff017b01ca64644bf0fe1b0404aac3, type: 3}
+        answerImage: {fileID: 21300000, guid: 16872c63be8f56e4fb6c348db534c5d3, type: 3}
+    - name: buru
+      entries:
+      - label: Bunyi A
+        questionId: 
+        questionImage: {fileID: 21300000, guid: f2bb9b2bddda8ea479e74760acb38d16, type: 3}
+        answerImage: {fileID: 0}
+  - name: Angka
+    subgames:
+    - name: hitung
+      entries:
+      - label: 0
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 40f128d2c02f8fd41a78d43fc12dc752, type: 3}
+        answerImage: {fileID: 21300000, guid: 0ace366126ffd0c4484a1fe8c011f9ca, type: 3}
+      - label: 1
+        questionId: 
+        questionImage: {fileID: 21300000, guid: c3b3d169df3dc4f458fc64d4200c5c0e, type: 3}
+        answerImage: {fileID: 21300000, guid: 4039e87ef3ec4294fb43275a16be1bef, type: 3}
+      - label: 2
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 06b07fa6e71b88346ad260e697ff6387, type: 3}
+        answerImage: {fileID: 21300000, guid: b2cd8e21b212c344c9edbb039a6f7320, type: 3}
+      - label: 3
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 8a0048a9e57c657428620351f6e43597, type: 3}
+        answerImage: {fileID: 21300000, guid: 51c9c91a5bf6b304cb3adfbe2c8f61f8, type: 3}
+      - label: 4
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 95875a09a96e610409d2f85fae37273a, type: 3}
+        answerImage: {fileID: 21300000, guid: 3c00ea4b808dadc429fd82b10791155e, type: 3}
+      - label: 5
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 2b46843732a3dd9409b31b96ee1d8c2e, type: 3}
+        answerImage: {fileID: 21300000, guid: 139e093ca4cf3414d9939585791d9ce7, type: 3}
+      - label: 6
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 01eb4a6f3050c924aa66f06cea0c534a, type: 3}
+        answerImage: {fileID: 21300000, guid: 7a35b660fdefe4a43b30c1772395aeb5, type: 3}
+      - label: 7
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 4d6b537893928a24288d66b3e5238ca9, type: 3}
+        answerImage: {fileID: 21300000, guid: d79aaee49d7f112428bd119214bf1d26, type: 3}
+      - label: 8
+        questionId: 
+        questionImage: {fileID: 21300000, guid: e915c555dee50ae4da4fcf77105db23a, type: 3}
+        answerImage: {fileID: 21300000, guid: 6f056db34d9813347a9d5b8e40815ce8, type: 3}
+      - label: 9
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 8c9aaaed6297f0346b797dc4502627e3, type: 3}
+        answerImage: {fileID: 21300000, guid: 11efcdedd2745834db4ab0d9b04a3fc1, type: 3}
+  - name: Hewan
+    subgames:
+    - name: deskripsi
+      entries:
+      - label: anjing
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 976906de17dde1342966ca184f4a0160, type: 3}
+        answerImage: {fileID: 21300000, guid: df9c9931e97b98640a5e8993342965c7, type: 3}
+      - label: ayam
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 40ef0a29f8bb7164abdb659ffe8a83f0, type: 3}
+        answerImage: {fileID: 21300000, guid: 1fb53b1bd528c264093c77ecbda879a5, type: 3}
+      - label: babi
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 79fe5d82b5124d14eaf847243acbaaeb, type: 3}
+        answerImage: {fileID: 21300000, guid: 92ee5720fe49661419b4e1b4c0c8ec89, type: 3}
+      - label: bebek
+        questionId: 
+        questionImage: {fileID: 21300000, guid: d3717b1ec90fcd34eb398fb2722ae5f1, type: 3}
+        answerImage: {fileID: 21300000, guid: f2d5c5c2d8cfdff49bc874691982f74c, type: 3}
+      - label: jangkrik
+        questionId: 
+        questionImage: {fileID: 21300000, guid: aad81f7d9b153fc4f80bbd069ae8c2c6, type: 3}
+        answerImage: {fileID: 21300000, guid: 9b673bb0eaa641c4383fabb09f4409f4, type: 3}
+      - label: kambing
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 6eb605e177dc3964783cbd93e62ebb5f, type: 3}
+        answerImage: {fileID: 21300000, guid: 5aaf81f96e7bf3e43a77a990d64568c0, type: 3}
+      - label: katak
+        questionId: 
+        questionImage: {fileID: 21300000, guid: eae3cb351f8f8074aab7f2a9ab7d86aa, type: 3}
+        answerImage: {fileID: 21300000, guid: 5516c86a70942ef4584b58eab022ddab, type: 3}
+      - label: kucing
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 818b0bc4d5a626d479e4428c8ab6dcb0, type: 3}
+        answerImage: {fileID: 21300000, guid: e94adc4555ced43428065ff5e231d034, type: 3}
+      - label: monyet
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 4b5b1c9416b08be46843fcc52e8f925e, type: 3}
+        answerImage: {fileID: 21300000, guid: f887ad892a361d54588e1400a32914ba, type: 3}
+      - label: sapi
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 731fde51ca14a6b479387df1c2ab9058, type: 3}
+        answerImage: {fileID: 21300000, guid: 6fa1ae10b5b5c0345909702966b3ea3d, type: 3}
+    - name: suara
+      entries:
+      - label: anjing
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 7924245ca317e374cb49496055141674, type: 3}
+        answerImage: {fileID: 21300000, guid: df9c9931e97b98640a5e8993342965c7, type: 3}
+      - label: ayam
+        questionId: 
+        questionImage: {fileID: 21300000, guid: b4f6c4042d37ed941b7a644362a08433, type: 3}
+        answerImage: {fileID: 21300000, guid: 1fb53b1bd528c264093c77ecbda879a5, type: 3}
+      - label: babi
+        questionId: 
+        questionImage: {fileID: 21300000, guid: fca35b6ac6cd75b4fa300d83eedcd92a, type: 3}
+        answerImage: {fileID: 21300000, guid: 92ee5720fe49661419b4e1b4c0c8ec89, type: 3}
+      - label: bebek
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 87588c2718fbbb146aafe07bc8bbec28, type: 3}
+        answerImage: {fileID: 21300000, guid: f2d5c5c2d8cfdff49bc874691982f74c, type: 3}
+      - label: jangkrik
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 62b0fd6d08469b845b0da1474d1c555a, type: 3}
+        answerImage: {fileID: 21300000, guid: 9b673bb0eaa641c4383fabb09f4409f4, type: 3}
+      - label: kambing
+        questionId: 
+        questionImage: {fileID: 21300000, guid: e57deebfa372a1c42a411a12deb45bc0, type: 3}
+        answerImage: {fileID: 21300000, guid: 5aaf81f96e7bf3e43a77a990d64568c0, type: 3}
+      - label: katak
+        questionId: 
+        questionImage: {fileID: 21300000, guid: d1dc337c81cd3244cad185831b1f3937, type: 3}
+        answerImage: {fileID: 21300000, guid: 5516c86a70942ef4584b58eab022ddab, type: 3}
+      - label: kucing
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 65db8fca40eaa9d4799beecdea47c953, type: 3}
+        answerImage: {fileID: 21300000, guid: e94adc4555ced43428065ff5e231d034, type: 3}
+      - label: monyet
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 72a403ce2a8a0f0489f24f1d363ec12b, type: 3}
+        answerImage: {fileID: 21300000, guid: f887ad892a361d54588e1400a32914ba, type: 3}
+      - label: sapi
+        questionId: 
+        questionImage: {fileID: 21300000, guid: a6e5249c9e5ee8f419b96a3a3a6e4b4f, type: 3}
+        answerImage: {fileID: 21300000, guid: 6fa1ae10b5b5c0345909702966b3ea3d, type: 3}
+    - name: bayangan
+      entries:
+      - label: anjing
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 9a1d358f94b5e5a4d8c4af992abac894, type: 3}
+        answerImage: {fileID: 21300000, guid: df9c9931e97b98640a5e8993342965c7, type: 3}
+      - label: ayam
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 7994a5c840139014b847f4f997e91a6a, type: 3}
+        answerImage: {fileID: 21300000, guid: 1fb53b1bd528c264093c77ecbda879a5, type: 3}
+      - label: babi
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 2f544dd59e588f24b8aeb79ccf135448, type: 3}
+        answerImage: {fileID: 21300000, guid: 92ee5720fe49661419b4e1b4c0c8ec89, type: 3}
+      - label: bebek
+        questionId: 
+        questionImage: {fileID: 21300000, guid: e5573d7dfd3880341b2ba2e32b15275d, type: 3}
+        answerImage: {fileID: 21300000, guid: f2d5c5c2d8cfdff49bc874691982f74c, type: 3}
+      - label: jangkrik
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 09c8e3e5764305f4d806462bbc551096, type: 3}
+        answerImage: {fileID: 21300000, guid: 9b673bb0eaa641c4383fabb09f4409f4, type: 3}
+      - label: kambing
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 154669de85fe6a04d985c2eb804d8f21, type: 3}
+        answerImage: {fileID: 21300000, guid: 5aaf81f96e7bf3e43a77a990d64568c0, type: 3}
+      - label: katak
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 6d078302e79bfa347bdc8e7a7b28a33e, type: 3}
+        answerImage: {fileID: 21300000, guid: 5516c86a70942ef4584b58eab022ddab, type: 3}
+      - label: kucing
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 7012f56cc47b47f498a7b6f1eb1b9a8f, type: 3}
+        answerImage: {fileID: 21300000, guid: e94adc4555ced43428065ff5e231d034, type: 3}
+      - label: monyet
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 0a9b980aca610d94cb3e194126c387ad, type: 3}
+        answerImage: {fileID: 21300000, guid: f887ad892a361d54588e1400a32914ba, type: 3}
+      - label: sapi
+        questionId: 
+        questionImage: {fileID: 21300000, guid: c432feb0eacbd2c4e8ab5f45894b7161, type: 3}
+        answerImage: {fileID: 21300000, guid: 6fa1ae10b5b5c0345909702966b3ea3d, type: 3}
+  - name: Warna
+    subgames:
+    - name: tebak
+      entries:
+      - label: biru
+        questionId: 
+        questionImage: {fileID: 21300000, guid: baece441eea573a4ca72b228129d198b, type: 3}
+        answerImage: {fileID: 0}
+      - label: hijau
+        questionId: 
+        questionImage: {fileID: 21300000, guid: e09a644a9c62ea94ba338ca19d10a035, type: 3}
+        answerImage: {fileID: 0}
+      - label: jingga
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 869c2ef48b441274689a02acf0903c35, type: 3}
+        answerImage: {fileID: 0}
+      - label: kuning
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 862cd80dc35d5f044b62fd5e116fb84a, type: 3}
+        answerImage: {fileID: 0}
+      - label: merah
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 064105a37bc525e4b9d979fcbdc06a18, type: 3}
+        answerImage: {fileID: 0}
+      - label: ungu
+        questionId: 
+        questionImage: {fileID: 21300000, guid: 21b5edf22131b1d47826871beba5a000, type: 3}
+        answerImage: {fileID: 0}
