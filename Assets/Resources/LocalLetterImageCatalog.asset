@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ffc11098c61b2c41a8409bbbf5bdf33, type: 3}
+  m_Name: LocalLetterImageCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::LocalLetterImageCatalog
+  entries:
+  - letter: a
+    sprite: {fileID: 21300000, guid: 69a2a2183665559479603db9cc9c3463, type: 3}
+  - letter: b
+    sprite: {fileID: 21300000, guid: 712943ca05ace9241bf8c4ac8cdb2898, type: 3}
+  - letter: c
+    sprite: {fileID: 21300000, guid: 96fe86f1863228847a5ebd2f85e24e6b, type: 3}
+  - letter: d
+    sprite: {fileID: 21300000, guid: ade80373fb25ac543b52a70b9e61876a, type: 3}
+  - letter: e
+    sprite: {fileID: 21300000, guid: 9c6d92c05b90777408e1905c71bdbcc9, type: 3}
+  - letter: f
+    sprite: {fileID: 21300000, guid: 6b77f45fea9505d41804548a7cfad16c, type: 3}
+  - letter: g
+    sprite: {fileID: 21300000, guid: bcbcb54abf471724b8cd1868891cc0d8, type: 3}
+  - letter: h
+    sprite: {fileID: 21300000, guid: a2f09c5631f25ed42b5915b8a291eba4, type: 3}
+  - letter: i
+    sprite: {fileID: 21300000, guid: ada7f7779b4acb14f9555478859b6db5, type: 3}
+  - letter: j
+    sprite: {fileID: 21300000, guid: e7b99383ec89b4c4ea8c865c80baf605, type: 3}
+  - letter: k
+    sprite: {fileID: 21300000, guid: abaac9940527fed40a847bbd32f6cc69, type: 3}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}
+  - letter: 
+    sprite: {fileID: 0}

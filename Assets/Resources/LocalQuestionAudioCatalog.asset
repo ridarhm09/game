@@ -1,0 +1,958 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b61d8ee38ac44468b4208a9da5dd4146, type: 3}
+  m_Name: LocalQuestionAudioCatalog
+  m_EditorClassIdentifier: 
+  categories:
+  - name: Huruf
+    subgames:
+    - name: Tebak Bunyi
+      questions:
+      - label: Bunyi A
+        questionId: 652d2bd8-e4ab-5d68-afbb-0e49e031e4e4
+        kira: {fileID: 8300000, guid: 724994cd5acef8f4da5f0105c390078c, type: 3}
+        eyra: {fileID: 8300000, guid: d84c165113414844fb64e2be53a93ebf, type: 3}
+        pasa: {fileID: 8300000, guid: c0f69249a56de3544941a1645dfaac57, type: 3}
+      - label: Bunyi B
+        questionId: 3fae89fe-085b-50c7-b2fe-28569dcedbbe
+        kira: {fileID: 8300000, guid: f0b5a7f770932bf4cbaf072a6c671952, type: 3}
+        eyra: {fileID: 8300000, guid: c63cdc8c544be2844916652bdee7521b, type: 3}
+        pasa: {fileID: 8300000, guid: 381b59ca363dab146a1ee81c4a8c8ea6, type: 3}
+      - label: Bunyi C
+        questionId: d5e4c7e8-6f06-57ab-be0f-7ebe9816295b
+        kira: {fileID: 8300000, guid: 878f070ee3a4902499265f9569ccce88, type: 3}
+        eyra: {fileID: 8300000, guid: f852a4ff7016b854d92c9123630f06e9, type: 3}
+        pasa: {fileID: 8300000, guid: b8ea4c34d5da6ca4aa897b5612a6df3e, type: 3}
+      - label: Bunyi D
+        questionId: 54113477-5c76-55f1-b4bd-3b58c24e2df8
+        kira: {fileID: 8300000, guid: b0485e3f7bd161b4f8713248dada2393, type: 3}
+        eyra: {fileID: 8300000, guid: 1cb1213fba7ad0b4f901f3644374a3c0, type: 3}
+        pasa: {fileID: 8300000, guid: e25bd90145d8df24ab88402df440545d, type: 3}
+      - label: Bunyi E
+        questionId: d828a325-ec98-52ce-8472-f236dd9c68d6
+        kira: {fileID: 8300000, guid: c73795f5beee59d45818085feb0db782, type: 3}
+        eyra: {fileID: 8300000, guid: 22895691ef1d5664c953868d3fc2ecf4, type: 3}
+        pasa: {fileID: 8300000, guid: 5cc77359b1916244faab4840ba1fabe2, type: 3}
+      - label: Bunyi F
+        questionId: a0ee4c18-5f3f-5777-be16-60eaf1c0a639
+        kira: {fileID: 8300000, guid: 69404191c44fc4b4ba2286ef69765b6c, type: 3}
+        eyra: {fileID: 8300000, guid: 94e9bad5e58c1674ba06546ba7fad07d, type: 3}
+        pasa: {fileID: 8300000, guid: eefc930363f17f64faba5f506f219b79, type: 3}
+      - label: Bunyi G
+        questionId: 8b67a56b-33fd-5af4-9575-5e4a96555a23
+        kira: {fileID: 8300000, guid: 9e8df3c03f628c3458e7726150e03f15, type: 3}
+        eyra: {fileID: 8300000, guid: 1004d662f7e9a9445983f5393b9dff67, type: 3}
+        pasa: {fileID: 8300000, guid: 08b8126bdb0bb414889ef0dc1cb2bcee, type: 3}
+      - label: Bunyi H
+        questionId: ae70e995-2e0e-58b0-8eec-3725d493672a
+        kira: {fileID: 8300000, guid: 1be960692e9c6e645b259479207243c2, type: 3}
+        eyra: {fileID: 8300000, guid: e0c04797b9610164399de9287b7d1024, type: 3}
+        pasa: {fileID: 8300000, guid: 4066beefe1b3e3d4f8c79890d854749f, type: 3}
+      - label: Bunyi I
+        questionId: 1307368b-f84f-547c-932c-7a84d418b2e9
+        kira: {fileID: 8300000, guid: 4633fb82c2133f14db3166017f78deaf, type: 3}
+        eyra: {fileID: 8300000, guid: bed0e4d92c3614346920fa00875d5a3b, type: 3}
+        pasa: {fileID: 8300000, guid: 8055d628be1c594498482992bf4905d5, type: 3}
+      - label: Bunyi J
+        questionId: ccfe7746-9a12-5cd7-9bce-91c7802af9b4
+        kira: {fileID: 8300000, guid: 512334062292a8b4ebe46d3beff9c42d, type: 3}
+        eyra: {fileID: 8300000, guid: c2fcb9a5ac5e45147a77329cf563e8d6, type: 3}
+        pasa: {fileID: 8300000, guid: c7f6563d60a3dba438ef6519ad90cde5, type: 3}
+      - label: Bunyi K
+        questionId: cca8f310-a3ca-5dc2-89b5-175bfa34c164
+        kira: {fileID: 8300000, guid: fdab65037602a8f45929a6c9a1b8741d, type: 3}
+        eyra: {fileID: 8300000, guid: 249f69037d5211b4d8bd703639b2c626, type: 3}
+        pasa: {fileID: 8300000, guid: 7dfc9abd760bbf940a780f40cf962bb4, type: 3}
+      - label: Bunyi L
+        questionId: 226d6c9d-f9d2-5001-a0ae-315b32d35bb0
+        kira: {fileID: 8300000, guid: 957e87d46a740a44e936c7a9b655fcca, type: 3}
+        eyra: {fileID: 8300000, guid: 3155635f5a6a4ed4983077a0e4bc9edb, type: 3}
+        pasa: {fileID: 8300000, guid: 45361165811e3f94ea3585a229709d69, type: 3}
+      - label: Bunyi M
+        questionId: 7faf3c34-cf54-592a-9228-a70b29d02779
+        kira: {fileID: 8300000, guid: b01a12f6af7c45345a26032790649c5c, type: 3}
+        eyra: {fileID: 8300000, guid: 8cfe72b857cf54749af8f1f74c9bdf39, type: 3}
+        pasa: {fileID: 8300000, guid: 473e6253311a31d4c89d468d1c8061f0, type: 3}
+      - label: Bunyi N
+        questionId: b265dbc0-7037-5106-8389-ee9f6c56f50f
+        kira: {fileID: 8300000, guid: 00cc62581b3380a4381afb3bda001525, type: 3}
+        eyra: {fileID: 8300000, guid: 13966c1e7abfdaf4099276d230b15e1a, type: 3}
+        pasa: {fileID: 8300000, guid: ae60b45ed95021e4787d28e6c1e3f7bb, type: 3}
+      - label: Bunyi O
+        questionId: 4e2ebb80-f0de-5d5e-a95b-b8692dfac9f7
+        kira: {fileID: 8300000, guid: 6409bd97ea0bedc4a8eb1aaf9c377247, type: 3}
+        eyra: {fileID: 8300000, guid: 9db8897bc9941e74d9b9763fdac32ad5, type: 3}
+        pasa: {fileID: 8300000, guid: b0cff979bc2a5cb43851ac44dd4f11b9, type: 3}
+      - label: Bunyi P
+        questionId: 312e1d64-eca8-5f42-8e6b-5a0da3b78635
+        kira: {fileID: 8300000, guid: 9278cd496c3b59e42a29df3d826b0110, type: 3}
+        eyra: {fileID: 8300000, guid: 02bc395b977c98542a3e5c0158e7f642, type: 3}
+        pasa: {fileID: 8300000, guid: 6445a68a210b2d34b8088d443cb23c74, type: 3}
+      - label: Bunyi Q
+        questionId: cea17326-ad0d-5b0f-b709-0d757205c67d
+        kira: {fileID: 8300000, guid: 0c75025a15bc61c4e97009a4162e4415, type: 3}
+        eyra: {fileID: 8300000, guid: 511642418279e7143938bc7497dc6892, type: 3}
+        pasa: {fileID: 8300000, guid: c20ea3f2253adbd45be48317644b6d2a, type: 3}
+      - label: Bunyi R
+        questionId: 0ae694b6-a66e-5c23-9ccc-e46df073122d
+        kira: {fileID: 8300000, guid: 664aa43779780de42909fe8b7d1aa547, type: 3}
+        eyra: {fileID: 8300000, guid: ab177143d0b4a9f48a15cc0abf6d9c20, type: 3}
+        pasa: {fileID: 8300000, guid: 0f738f3c83806d543891c4b2ead92165, type: 3}
+      - label: Bunyi S
+        questionId: d1461655-6572-5337-9680-36a135641b68
+        kira: {fileID: 8300000, guid: 37c1d1420a415d44488330fd9bf973cc, type: 3}
+        eyra: {fileID: 8300000, guid: d8764c00d40897b498e1ccd60a67399d, type: 3}
+        pasa: {fileID: 8300000, guid: d10ab06f1fdd7d24a98470895277502c, type: 3}
+      - label: Bunyi T
+        questionId: 4d6a48fd-37d5-51e7-8eb4-818ebbf615dd
+        kira: {fileID: 8300000, guid: 54eb5d40cf013054fac1f473359c1ec4, type: 3}
+        eyra: {fileID: 8300000, guid: 43dc0eadb34c5c84a8b07b9e4b3172f4, type: 3}
+        pasa: {fileID: 8300000, guid: a9615c21566249b42938f7c7142e24df, type: 3}
+      - label: Bunyi U
+        questionId: 43dd2bf9-b8b4-5288-bced-471aa9c7cc66
+        kira: {fileID: 8300000, guid: ec8738c6c8a42e74493860e461cccb7c, type: 3}
+        eyra: {fileID: 8300000, guid: ab9445e13f2c91a448b8608dd7a99ce0, type: 3}
+        pasa: {fileID: 8300000, guid: 0a39ed992e23d8b4495cd001ccf8d9dc, type: 3}
+      - label: Bunyi V
+        questionId: 40074281-ce55-5432-baac-b93039611304
+        kira: {fileID: 8300000, guid: 94de2859ce85db743bfa18b8489ba5d6, type: 3}
+        eyra: {fileID: 8300000, guid: 317605017ad0ed849a55babd3e78dc03, type: 3}
+        pasa: {fileID: 8300000, guid: 94517abf443c89d4f82fae215e010c81, type: 3}
+      - label: Bunyi W
+        questionId: cce9a652-4d2c-58b7-9004-95844ccab59d
+        kira: {fileID: 8300000, guid: 237a9d022257a1f4797075fc2c44f9cf, type: 3}
+        eyra: {fileID: 8300000, guid: 9af0c391f376c2b419e5fe184914fff4, type: 3}
+        pasa: {fileID: 8300000, guid: e133bfd4eea2cba489f91e638c3c8491, type: 3}
+      - label: Bunyi X
+        questionId: 073f3146-06c0-561b-82c4-e30a39eedddb
+        kira: {fileID: 8300000, guid: bd25b0690919d4542a2982dce0e36564, type: 3}
+        eyra: {fileID: 8300000, guid: b1bf346924e370c43917533ac28913c1, type: 3}
+        pasa: {fileID: 8300000, guid: aaeb39654ed2d914d980d19101730837, type: 3}
+      - label: Bunyi Y
+        questionId: 91315b38-7c78-572b-8a1a-cde419575137
+        kira: {fileID: 8300000, guid: 0994157279f283048afa7fdbd027083a, type: 3}
+        eyra: {fileID: 8300000, guid: b835c21e8c0801747b265f8dde0eb926, type: 3}
+        pasa: {fileID: 8300000, guid: 7c4513b180fb65c488977d191dca5f7d, type: 3}
+      - label: Bunyi Z
+        questionId: 0d4005ee-d27a-5c1d-b4cd-ba8f96d1eada
+        kira: {fileID: 8300000, guid: accf2c62dafe811438c6bbc2d8f6a7f6, type: 3}
+        eyra: {fileID: 8300000, guid: ea12f867035604a4e8ba65f03d0718ac, type: 3}
+        pasa: {fileID: 8300000, guid: 0c1dc60e1e0acc4479bae03ef41a00a1, type: 3}
+    - name: Lengkapi Huruf
+      questions:
+      - label: Lengkapi B
+        questionId: 1641fbdc-cdb6-5a02-8f66-2de0e66da01d
+        kira: {fileID: 8300000, guid: ac8df91569de7f442a2f2878d2c6b2b4, type: 3}
+        eyra: {fileID: 8300000, guid: 6e8e92e6f7b17684f8a16afb9828d2c5, type: 3}
+        pasa: {fileID: 8300000, guid: c3cff656dc72d564c897125af2552350, type: 3}
+      - label: Lengkapi J
+        questionId: 8ea0f5c6-d653-5db2-b1bc-06dbeabe7f26
+        kira: {fileID: 8300000, guid: 58e518148b1b1684392099feb76c356e, type: 3}
+        eyra: {fileID: 8300000, guid: cc82c824ed2d3154abaf369a26d469f3, type: 3}
+        pasa: {fileID: 8300000, guid: c2d18c35c7489c74b95eaa9cab30fce6, type: 3}
+      - label: Lengkapi K
+        questionId: 2a202be8-8a9e-5a29-935b-ca616d7ba91b
+        kira: {fileID: 8300000, guid: 5369b457a4f18b4499df7bcbdec114c2, type: 3}
+        eyra: {fileID: 8300000, guid: 63720fb8f4f0a5e4f97831d323833d48, type: 3}
+        pasa: {fileID: 8300000, guid: d20405adce1c94946b22ca90a13f4078, type: 3}
+      - label: Lengkapi L
+        questionId: 65ab5fa8-b9c4-5f76-86b7-e90cae66207c
+        kira: {fileID: 8300000, guid: 486e2199603042143a0d6e6f06cbd75b, type: 3}
+        eyra: {fileID: 8300000, guid: c11ac7e67792b4d408b248b74d6c128c, type: 3}
+        pasa: {fileID: 8300000, guid: 08190ef54b44fc6479cdc92118c984ed, type: 3}
+      - label: Lengkapi P
+        questionId: 87bd582c-d5e0-569f-906c-50a53a4ed9fa
+        kira: {fileID: 8300000, guid: bc73b75723439c14ea8fb262d8bfeba9, type: 3}
+        eyra: {fileID: 8300000, guid: 7298dd34469dfc94ba5dc51b9ef4421d, type: 3}
+        pasa: {fileID: 8300000, guid: d6182437bf8b1b54589916600c191a47, type: 3}
+      - label: Lengkapi T
+        questionId: 58327525-d090-5f89-84e1-3bb931b62924
+        kira: {fileID: 8300000, guid: fa979f94ad18af54aa12805686910e55, type: 3}
+        eyra: {fileID: 8300000, guid: ebabc77d89a90644592be0a2d635865a, type: 3}
+        pasa: {fileID: 8300000, guid: 28a58bb7305a64c4ca1a4338e15565b4, type: 3}
+      - label: Lengkapi U
+        questionId: 5491c4f6-faa0-5109-b3bb-a5a64d3255fe
+        kira: {fileID: 8300000, guid: 7c6d97656de22584598b8fd3b3a6a7f1, type: 3}
+        eyra: {fileID: 8300000, guid: 65d30a08da4834c4086c5cdd8592f246, type: 3}
+        pasa: {fileID: 8300000, guid: 3720400eaad908f46ae15a24bf7874fd, type: 3}
+      - label: Lengkapi Y
+        questionId: 915bc594-0814-5c22-aa85-06b0e9b470cc
+        kira: {fileID: 8300000, guid: 5369b457a4f18b4499df7bcbdec114c2, type: 3}
+        eyra: {fileID: 8300000, guid: 63720fb8f4f0a5e4f97831d323833d48, type: 3}
+        pasa: {fileID: 8300000, guid: d20405adce1c94946b22ca90a13f4078, type: 3}
+    - name: Berburu Huruf
+      questions:
+      - label: Berburu AYAM
+        questionId: bff8b113-191f-4462-8748-ecc85c591268
+        kira: {fileID: 8300000, guid: 64bedd79f8aee19429cf21d8c5a29947, type: 3}
+        eyra: {fileID: 8300000, guid: cd76f36b4c9888846bb4d068934f1870, type: 3}
+        pasa: {fileID: 8300000, guid: 32b08c0de179969468760daf3211b72d, type: 3}
+      - label: Berburu BOLA
+        questionId: 2d264610-c7ab-4cae-8aac-987077e906ae
+        kira: {fileID: 8300000, guid: c4d621e50baeccc4baab38a38dca038e, type: 3}
+        eyra: {fileID: 8300000, guid: e6d345b62c0bfaa4baa6d524771f991d, type: 3}
+        pasa: {fileID: 8300000, guid: a386a14b9099e214d9117b9f15b3f382, type: 3}
+      - label: Berburu BUKU
+        questionId: b8fd1621-c90d-4ffc-b386-68bd3ba9035c
+        kira: {fileID: 8300000, guid: c098d38f52fecb14e94462f1bf75e90a, type: 3}
+        eyra: {fileID: 8300000, guid: 567da97c0cd367c4cb16ad2dae857fc9, type: 3}
+        pasa: {fileID: 8300000, guid: 55e32a1593891b5419014a09748d3cef, type: 3}
+      - label: Berburu MAMA
+        questionId: 44046ed8-e564-49ca-bca7-1418d9509809
+        kira: {fileID: 8300000, guid: 0c91f565a162a2f46aa2f91d5320df81, type: 3}
+        eyra: {fileID: 8300000, guid: f2ec43a2dfabc31488ecf527ff44c1e3, type: 3}
+        pasa: {fileID: 8300000, guid: 7300bebbf86907044af2217a44d0c780, type: 3}
+      - label: Berburu IKAN
+        questionId: 528e843a-a6f6-4191-b1a9-eaf9eeab46cf
+        kira: {fileID: 8300000, guid: deede543bbb26fe4d993ab7809bc515e, type: 3}
+        eyra: {fileID: 8300000, guid: c845b1f609d91b9448f7408f2847c1fc, type: 3}
+        pasa: {fileID: 8300000, guid: 90b47b3aae4c52f419d299ce1532ea2c, type: 3}
+      - label: Berburu MATA
+        questionId: a1f96dc8-e839-433f-a089-93b67c3334d2
+        kira: {fileID: 8300000, guid: 517ca0f69ccdd2c49b8f7e4d56517f85, type: 3}
+        eyra: {fileID: 8300000, guid: 11539a4647e667b41a82895e57f0113c, type: 3}
+        pasa: {fileID: 8300000, guid: 4911cc79886f83d4d81043b87946a52f, type: 3}
+      - label: Berburu RODA
+        questionId: 1700f941-e219-4dcf-aeab-c9f61c414d4a
+        kira: {fileID: 8300000, guid: f586ab967855e6c4fad914aa37e48afc, type: 3}
+        eyra: {fileID: 8300000, guid: 988a4cd4879dc2c4e9aa13b844ed58fc, type: 3}
+        pasa: {fileID: 8300000, guid: a9d666755356c0b418ee789e819ea5c8, type: 3}
+      - label: Berburu SAPI
+        questionId: a15f71f8-8174-4826-bdc1-f05372949cbf
+        kira: {fileID: 8300000, guid: f2b1144e3235d8d42bfa1fe726458666, type: 3}
+        eyra: {fileID: 8300000, guid: 175fcac9c0808374fbcc6a4f2fa03dcc, type: 3}
+        pasa: {fileID: 8300000, guid: 852df945ca59c124b8b8e3a587368309, type: 3}
+      - label: Berburu TAS
+        questionId: 91256856-f2dd-4f81-a546-be667bfe8267
+        kira: {fileID: 8300000, guid: c9245ca414d88bc419ddb85950277d9b, type: 3}
+        eyra: {fileID: 8300000, guid: 962c2e194f7b0e2439cfb5b7bb01d968, type: 3}
+        pasa: {fileID: 8300000, guid: 5589add1dad192142a84ed6fe5f161e6, type: 3}
+      - label: Berburu TOPI
+        questionId: 179f3d15-a02a-4a48-9373-b9a549f31aa0
+        kira: {fileID: 8300000, guid: af96a8b216201bd438f8176c13076009, type: 3}
+        eyra: {fileID: 8300000, guid: fe5a56caa1d31fb419a0d140a917195f, type: 3}
+        pasa: {fileID: 8300000, guid: 313d2414bbc327a4898494cd0f634e3f, type: 3}
+  - name: Angka
+    subgames:
+    - name: Cari Angka
+      questions:
+      - label: Cari Angka 0
+        questionId: b86adba6-883d-4e46-b21c-a115dc6ae8a7
+        kira: {fileID: 8300000, guid: a8ccf4c68afb84e4fad076f667559fcc, type: 3}
+        eyra: {fileID: 8300000, guid: 979197b5e685e574eb30e42cd6c14442, type: 3}
+        pasa: {fileID: 8300000, guid: 77d6cabb84d139e4da3a31e319bcf8a9, type: 3}
+      - label: Cari Angka 1
+        questionId: 50d6cfa9-0000-44f2-9856-000000000001
+        kira: {fileID: 8300000, guid: f3990f703dc45ac468a5b8be104835fc, type: 3}
+        eyra: {fileID: 8300000, guid: 16572d6e7c5311b4b9de0b1a830066b1, type: 3}
+        pasa: {fileID: 8300000, guid: 026b437d7d2bf4a4aa7f930a736b9a28, type: 3}
+      - label: Cari Angka 2
+        questionId: 50d6cfa9-0000-44f2-9856-000000000002
+        kira: {fileID: 8300000, guid: 559a10b51c3ff014aae203d52ede4c20, type: 3}
+        eyra: {fileID: 8300000, guid: 9fd0f735e1ef809448f2d13f11012f94, type: 3}
+        pasa: {fileID: 8300000, guid: e43ed91621ee5534c9d406fe8e7ae759, type: 3}
+      - label: Cari Angka 3
+        questionId: 50d6cfa9-0000-44f2-9856-000000000003
+        kira: {fileID: 8300000, guid: 00873626d29e1104783914f4ecb29822, type: 3}
+        eyra: {fileID: 8300000, guid: c52a451608094b94081b94663f48c51c, type: 3}
+        pasa: {fileID: 8300000, guid: f2ad4b7d9bf0db543a1dccc8414c55d6, type: 3}
+      - label: Cari Angka 4
+        questionId: 50d6cfa9-0000-44f2-9856-000000000004
+        kira: {fileID: 8300000, guid: 28634e0917d467041b015dd7df221f10, type: 3}
+        eyra: {fileID: 8300000, guid: f58fe1893f85be340adab9493cac9730, type: 3}
+        pasa: {fileID: 8300000, guid: cec9507f2a4b20b49bcdb0271c34756e, type: 3}
+      - label: Cari Angka 5
+        questionId: 50d6cfa9-0000-44f2-9856-000000000005
+        kira: {fileID: 8300000, guid: 4c99c2c0b67510b468e55fb00cb199b2, type: 3}
+        eyra: {fileID: 8300000, guid: 11b9c2ba4e7c05b41994dfe5cfeaeb37, type: 3}
+        pasa: {fileID: 8300000, guid: 672baa03e206bf449995f25fee598b29, type: 3}
+      - label: Cari Angka 6
+        questionId: 50d6cfa9-0000-44f2-9856-000000000006
+        kira: {fileID: 8300000, guid: 0d11d6056671503448be4bb58ee6dd28, type: 3}
+        eyra: {fileID: 8300000, guid: 4973b6a869999f2498d3008cf3aef56c, type: 3}
+        pasa: {fileID: 8300000, guid: ee4b9d9347d25e3458a2f5a8edca545a, type: 3}
+      - label: Cari Angka 7
+        questionId: 50d6cfa9-0000-44f2-9856-000000000007
+        kira: {fileID: 8300000, guid: 4c21cf49e27345441a87719f4463ff69, type: 3}
+        eyra: {fileID: 8300000, guid: 6943071fab21d0945adc2923d7f6521b, type: 3}
+        pasa: {fileID: 8300000, guid: 1f68320217488cb4695e52889370f085, type: 3}
+      - label: Cari Angka 8
+        questionId: 50d6cfa9-0000-44f2-9856-000000000008
+        kira: {fileID: 8300000, guid: aa4bbc2a7935d204b8dad8b50606fddd, type: 3}
+        eyra: {fileID: 8300000, guid: c1587e46d097f664c942f49b18c65ee5, type: 3}
+        pasa: {fileID: 8300000, guid: f529ba35442a9f3459a1f66e774f5e6c, type: 3}
+      - label: Cari Angka 9
+        questionId: 50d6cfa9-0000-44f2-9856-000000000009
+        kira: {fileID: 8300000, guid: d334e79272ee0c04d982164295f55790, type: 3}
+        eyra: {fileID: 8300000, guid: f665b18f9c9b0084095032b84e6314a1, type: 3}
+        pasa: {fileID: 8300000, guid: d74ea3a0d8e18b44282c7f213cfcc53e, type: 3}
+    - name: Hitung Angka
+      questions:
+      - label: Hitung Angka 9
+        questionId: b9d4887a-a43b-4a34-820f-071d1ccc7b1b
+        kira: {fileID: 8300000, guid: 7c7fea9ff91c1664ab6be002b634badb, type: 3}
+        eyra: {fileID: 8300000, guid: 28a178c2ba1bbb94397389e384da7f1f, type: 3}
+        pasa: {fileID: 8300000, guid: 02b89ac2dd8992c43a522b96aaa971e0, type: 3}
+      - label: Hitung Angka 0
+        questionId: fb780ba7-0f84-45c0-a3ac-d08cb0a7ccf6
+        kira: {fileID: 8300000, guid: 7b6cd1b5c1fb8244cbac6e1bd6d9d43d, type: 3}
+        eyra: {fileID: 8300000, guid: f8e9258b71eeb9948968587e83351c7e, type: 3}
+        pasa: {fileID: 8300000, guid: e855b40bb7c649e48853408c3fcef5bf, type: 3}
+      - label: Hitung Angka 1
+        questionId: c82bdfcd-fba8-470d-b825-5dd8b0ccea25
+        kira: {fileID: 8300000, guid: a4aef67a42ff6ef46948d1554d869ba8, type: 3}
+        eyra: {fileID: 8300000, guid: 45a542b8a1dfb3c4281e6f487c6387cc, type: 3}
+        pasa: {fileID: 8300000, guid: ca1880b7f2c7f17419b699fe56ea0747, type: 3}
+      - label: Hitung Angka 2
+        questionId: 1179a313-ab83-4bad-85b4-7ea4feeecffd
+        kira: {fileID: 8300000, guid: 0a84454c113657b45abcae74bfa7bf79, type: 3}
+        eyra: {fileID: 8300000, guid: 02a103e8b3e9d974188556ca1512b527, type: 3}
+        pasa: {fileID: 8300000, guid: 9f2c25661cc725a4ca096ec87f4086f3, type: 3}
+      - label: Hitung Angka 3
+        questionId: 98c81f42-de60-4420-9073-3a98ff7554df
+        kira: {fileID: 8300000, guid: a8eec5438462a3e4eb2e20d9f6097ce1, type: 3}
+        eyra: {fileID: 8300000, guid: fea53523d83544b4d8c882bfab483e73, type: 3}
+        pasa: {fileID: 8300000, guid: 33aeda1cc3c58434795ca883e2a208d8, type: 3}
+      - label: Hitung Angka 4
+        questionId: b8524b05-abda-4397-a020-caae50b0612d
+        kira: {fileID: 8300000, guid: 81f11ea1f3de7664a885e0291977dbfe, type: 3}
+        eyra: {fileID: 8300000, guid: e5999d491b33dbc4385c9941cdd824d4, type: 3}
+        pasa: {fileID: 8300000, guid: 3e970155da5a8ef44afa5cb2f057b998, type: 3}
+      - label: Hitung Angka 5
+        questionId: 7b1d6e59-50f2-4b06-82c0-b11a9c15f7da
+        kira: {fileID: 8300000, guid: 19a2bdf24df8b6b47a8baf7232df7f45, type: 3}
+        eyra: {fileID: 8300000, guid: 5d84262dc967d034da05e061e540c3bf, type: 3}
+        pasa: {fileID: 8300000, guid: 9c5a0e5b12d2a0b4399ded39f259fad6, type: 3}
+      - label: Hitung Angka 6
+        questionId: 47a46bc5-155d-43ac-8f58-1b8b13a536df
+        kira: {fileID: 8300000, guid: 238ddb516ba266b4b907463bfe57ff52, type: 3}
+        eyra: {fileID: 8300000, guid: 472efa1ab75eab942b8c6b63518b1377, type: 3}
+        pasa: {fileID: 8300000, guid: 42bcf043f0a172b43b6d8513ffa66a34, type: 3}
+      - label: Hitung Angka 7
+        questionId: 24c93140-b44d-4d98-8433-49540d3615bc
+        kira: {fileID: 8300000, guid: 1f82cdad52b5cc141b73514885858c6c, type: 3}
+        eyra: {fileID: 8300000, guid: 10743fd7aec5b404cb6eefaa7576bfd4, type: 3}
+        pasa: {fileID: 8300000, guid: 1168541e80013764fb12ace5519fcbcd, type: 3}
+      - label: Hitung Angka 8
+        questionId: a29cb6ef-b519-46de-8cf3-3376a502fedc
+        kira: {fileID: 8300000, guid: 686797f34737894499ae596f693286d6, type: 3}
+        eyra: {fileID: 8300000, guid: b333022d11facd342b88e0c55e859728, type: 3}
+        pasa: {fileID: 8300000, guid: db07eb4b1a98a8d4890ae757635723d2, type: 3}
+    - name: Susun Angka
+      questions:
+      - label: Susun Angka 10
+        questionId: 40d6cfa9-0000-44f2-9856-000000000001
+        kira: {fileID: 8300000, guid: 91775e03f0809164daa8282aec0bdc2f, type: 3}
+        eyra: {fileID: 8300000, guid: b92fc522ff064c445a4cfd2d259d66db, type: 3}
+        pasa: {fileID: 8300000, guid: ae6076423c870a4418c496d43f3cfc5d, type: 3}
+      - label: Susun Angka 28
+        questionId: 40d6cfa9-0000-44f2-9856-000000000002
+        kira: {fileID: 8300000, guid: fd24dbf5832df4644b094a00cc650caf, type: 3}
+        eyra: {fileID: 8300000, guid: 44a593e85711b3b4d9f899457452999e, type: 3}
+        pasa: {fileID: 8300000, guid: dfacf59cbdf9be743acbb4b7128c1dec, type: 3}
+      - label: Susun Angka 36
+        questionId: 40d6cfa9-0000-44f2-9856-000000000003
+        kira: {fileID: 8300000, guid: 8aeb1a2b7152b944bb572f9321f6139b, type: 3}
+        eyra: {fileID: 8300000, guid: bda30c2acc0e2504f940a962a97d2f40, type: 3}
+        pasa: {fileID: 8300000, guid: 6f9174591d5b4934bace33fd54000ff6, type: 3}
+      - label: Susun Angka 47
+        questionId: 40d6cfa9-0000-44f2-9856-000000000004
+        kira: {fileID: 8300000, guid: 29b6175b37ec62d45b455312da9bdc37, type: 3}
+        eyra: {fileID: 8300000, guid: 06a7ee88387df9b48878f76bd8ec7c30, type: 3}
+        pasa: {fileID: 8300000, guid: 60afb538026728341ab16e3760942eac, type: 3}
+      - label: Susun Angka 59
+        questionId: 40d6cfa9-0000-44f2-9856-000000000005
+        kira: {fileID: 8300000, guid: db2294fd61b6e8e4e8c96f1803daf100, type: 3}
+        eyra: {fileID: 8300000, guid: 1c256bf98886e76409d687995d8a1bfd, type: 3}
+        pasa: {fileID: 8300000, guid: ef70a51daddf5a84d9ca551e4f0149ac, type: 3}
+      - label: Susun Angka 62
+        questionId: 40d6cfa9-0000-44f2-9856-000000000006
+        kira: {fileID: 8300000, guid: 7255dd57d4e0a4a40b32a1358fcff761, type: 3}
+        eyra: {fileID: 8300000, guid: 53c664a5c2a73e543ba1867c5530fade, type: 3}
+        pasa: {fileID: 8300000, guid: 9b3fda360f277db448e89ef29d0294ff, type: 3}
+      - label: Susun Angka 74
+        questionId: 40d6cfa9-0000-44f2-9856-000000000007
+        kira: {fileID: 8300000, guid: dee648ff2eb95a54197afd4a84782e88, type: 3}
+        eyra: {fileID: 8300000, guid: e5c31fcbc71602e4a85b41a7b5ccc3b4, type: 3}
+        pasa: {fileID: 8300000, guid: 540386dc026dd044aabe801116f79a6b, type: 3}
+      - label: Susun Angka 85
+        questionId: 40d6cfa9-0000-44f2-9856-000000000008
+        kira: {fileID: 8300000, guid: 63a8ac12ede905f4aaf7e7782f5a2a50, type: 3}
+        eyra: {fileID: 8300000, guid: 71e21b5b8b06dd546b84e91d0234a21e, type: 3}
+        pasa: {fileID: 8300000, guid: d4ee0e3825800e141b9e1d2381ffd54b, type: 3}
+      - label: Susun Angka 91
+        questionId: 40d6cfa9-0000-44f2-9856-000000000009
+        kira: {fileID: 8300000, guid: 1ef87c441f23bfb4dbef59226bae90e3, type: 3}
+        eyra: {fileID: 8300000, guid: 8e449887a71b49f45a6f28ba0f0ad6cc, type: 3}
+        pasa: {fileID: 8300000, guid: b45626c9d414759488648c782612c854, type: 3}
+      - label: Susun Angka 0
+        questionId: ad83d951-7882-4dd5-aad1-8cea7758f815
+        kira: {fileID: 0}
+        eyra: {fileID: 0}
+        pasa: {fileID: 0}
+      - label: Susun Angka 1
+        questionId: fec121e4-99e5-4184-a8ef-d1dac66154e4
+        kira: {fileID: 8300000, guid: 91775e03f0809164daa8282aec0bdc2f, type: 3}
+        eyra: {fileID: 8300000, guid: b92fc522ff064c445a4cfd2d259d66db, type: 3}
+        pasa: {fileID: 8300000, guid: ae6076423c870a4418c496d43f3cfc5d, type: 3}
+      - label: Susun Angka 2
+        questionId: c7684f5c-6d0e-4cdb-9f9f-88133831b902
+        kira: {fileID: 8300000, guid: fd24dbf5832df4644b094a00cc650caf, type: 3}
+        eyra: {fileID: 8300000, guid: 44a593e85711b3b4d9f899457452999e, type: 3}
+        pasa: {fileID: 8300000, guid: dfacf59cbdf9be743acbb4b7128c1dec, type: 3}
+      - label: Susun Angka 3
+        questionId: 1d36671b-859c-4f39-9e14-59be05f868cf
+        kira: {fileID: 8300000, guid: 8aeb1a2b7152b944bb572f9321f6139b, type: 3}
+        eyra: {fileID: 8300000, guid: bda30c2acc0e2504f940a962a97d2f40, type: 3}
+        pasa: {fileID: 8300000, guid: 6f9174591d5b4934bace33fd54000ff6, type: 3}
+      - label: Susun Angka 4
+        questionId: aa66bbe2-cec9-4f85-9876-c19e00a42292
+        kira: {fileID: 8300000, guid: 29b6175b37ec62d45b455312da9bdc37, type: 3}
+        eyra: {fileID: 8300000, guid: 06a7ee88387df9b48878f76bd8ec7c30, type: 3}
+        pasa: {fileID: 8300000, guid: 60afb538026728341ab16e3760942eac, type: 3}
+      - label: Susun Angka 5
+        questionId: feebcea1-9148-451a-b0c5-d8688bb4dae2
+        kira: {fileID: 8300000, guid: db2294fd61b6e8e4e8c96f1803daf100, type: 3}
+        eyra: {fileID: 8300000, guid: 1c256bf98886e76409d687995d8a1bfd, type: 3}
+        pasa: {fileID: 8300000, guid: ef70a51daddf5a84d9ca551e4f0149ac, type: 3}
+      - label: Susun Angka 6
+        questionId: 65c4f4fa-0677-4dfa-93f3-b8abf7a5a812
+        kira: {fileID: 8300000, guid: 7255dd57d4e0a4a40b32a1358fcff761, type: 3}
+        eyra: {fileID: 8300000, guid: 53c664a5c2a73e543ba1867c5530fade, type: 3}
+        pasa: {fileID: 8300000, guid: 9b3fda360f277db448e89ef29d0294ff, type: 3}
+      - label: Susun Angka 7
+        questionId: eab2ccdf-0b8c-4e6d-ac94-8c16d903ef6a
+        kira: {fileID: 8300000, guid: dee648ff2eb95a54197afd4a84782e88, type: 3}
+        eyra: {fileID: 8300000, guid: e5c31fcbc71602e4a85b41a7b5ccc3b4, type: 3}
+        pasa: {fileID: 8300000, guid: 540386dc026dd044aabe801116f79a6b, type: 3}
+      - label: Susun Angka 8
+        questionId: 219fe94f-d8cb-44d2-9bd0-47840f518e85
+        kira: {fileID: 8300000, guid: 63a8ac12ede905f4aaf7e7782f5a2a50, type: 3}
+        eyra: {fileID: 8300000, guid: 71e21b5b8b06dd546b84e91d0234a21e, type: 3}
+        pasa: {fileID: 8300000, guid: d4ee0e3825800e141b9e1d2381ffd54b, type: 3}
+      - label: Susun Angka 9
+        questionId: a7604f77-8193-4c50-9e32-a48e9e7ec3c5
+        kira: {fileID: 8300000, guid: 1ef87c441f23bfb4dbef59226bae90e3, type: 3}
+        eyra: {fileID: 8300000, guid: 8e449887a71b49f45a6f28ba0f0ad6cc, type: 3}
+        pasa: {fileID: 8300000, guid: b45626c9d414759488648c782612c854, type: 3}
+  - name: Hewan
+    subgames:
+    - name: Tebak Bayangan
+      questions:
+      - label: Tebak Bayangan ANJING
+        questionId: 3d576b0d-ad34-441b-85b7-452be210b634
+        kira: {fileID: 8300000, guid: 951dac3d544cb9d4f83f65e64d446775, type: 3}
+        eyra: {fileID: 8300000, guid: 44a28e04993348b4c85af5507e747eb2, type: 3}
+        pasa: {fileID: 8300000, guid: 516328441ac79e94d83fb2fdf3100261, type: 3}
+      - label: Tebak Bayangan MONYET
+        questionId: e8df173a-5d8f-4b35-928b-76b6837c80fd
+        kira: {fileID: 8300000, guid: 951dac3d544cb9d4f83f65e64d446775, type: 3}
+        eyra: {fileID: 8300000, guid: 44a28e04993348b4c85af5507e747eb2, type: 3}
+        pasa: {fileID: 8300000, guid: 516328441ac79e94d83fb2fdf3100261, type: 3}
+      - label: Tebak Bayangan SAPI
+        questionId: 7655d616-0b41-40ff-b0cc-bebedc06f95e
+        kira: {fileID: 8300000, guid: 951dac3d544cb9d4f83f65e64d446775, type: 3}
+        eyra: {fileID: 8300000, guid: 44a28e04993348b4c85af5507e747eb2, type: 3}
+        pasa: {fileID: 8300000, guid: 516328441ac79e94d83fb2fdf3100261, type: 3}
+      - label: Tebak Bayangan KAMBING
+        questionId: 3718f8d3-8e89-4c22-a027-6f7d007991cb
+        kira: {fileID: 8300000, guid: 951dac3d544cb9d4f83f65e64d446775, type: 3}
+        eyra: {fileID: 8300000, guid: 44a28e04993348b4c85af5507e747eb2, type: 3}
+        pasa: {fileID: 8300000, guid: 516328441ac79e94d83fb2fdf3100261, type: 3}
+      - label: Tebak Bayangan JANGKRIK
+        questionId: a633eed2-2a2c-48b9-8337-e97c98cca7ed
+        kira: {fileID: 8300000, guid: 951dac3d544cb9d4f83f65e64d446775, type: 3}
+        eyra: {fileID: 8300000, guid: 44a28e04993348b4c85af5507e747eb2, type: 3}
+        pasa: {fileID: 8300000, guid: 516328441ac79e94d83fb2fdf3100261, type: 3}
+      - label: Tebak Bayangan BEBEK
+        questionId: c8f5b515-a645-469d-bdff-378d567767ed
+        kira: {fileID: 8300000, guid: 951dac3d544cb9d4f83f65e64d446775, type: 3}
+        eyra: {fileID: 8300000, guid: 44a28e04993348b4c85af5507e747eb2, type: 3}
+        pasa: {fileID: 8300000, guid: 516328441ac79e94d83fb2fdf3100261, type: 3}
+      - label: Tebak Bayangan AYAM
+        questionId: ad00425c-3749-4fd5-ae3c-63affcfbb9bf
+        kira: {fileID: 8300000, guid: 951dac3d544cb9d4f83f65e64d446775, type: 3}
+        eyra: {fileID: 8300000, guid: 44a28e04993348b4c85af5507e747eb2, type: 3}
+        pasa: {fileID: 8300000, guid: 516328441ac79e94d83fb2fdf3100261, type: 3}
+      - label: Tebak Bayangan KATAK
+        questionId: 889d3f0b-b541-427a-8208-2e03484b3c26
+        kira: {fileID: 8300000, guid: 951dac3d544cb9d4f83f65e64d446775, type: 3}
+        eyra: {fileID: 8300000, guid: 44a28e04993348b4c85af5507e747eb2, type: 3}
+        pasa: {fileID: 8300000, guid: 516328441ac79e94d83fb2fdf3100261, type: 3}
+      - label: Tebak Bayangan BABI
+        questionId: 79756d61-0cf6-4fbe-9f1e-2b3c614999e3
+        kira: {fileID: 8300000, guid: 951dac3d544cb9d4f83f65e64d446775, type: 3}
+        eyra: {fileID: 8300000, guid: 44a28e04993348b4c85af5507e747eb2, type: 3}
+        pasa: {fileID: 8300000, guid: 516328441ac79e94d83fb2fdf3100261, type: 3}
+      - label: Tebak Bayangan KUCING
+        questionId: 9cf12902-724e-4a4e-aa92-5cd104a72714
+        kira: {fileID: 8300000, guid: 951dac3d544cb9d4f83f65e64d446775, type: 3}
+        eyra: {fileID: 8300000, guid: 44a28e04993348b4c85af5507e747eb2, type: 3}
+        pasa: {fileID: 8300000, guid: 516328441ac79e94d83fb2fdf3100261, type: 3}
+    - name: Deskripsi Hewan
+      questions:
+      - label: Deskripsi Hewan ANJING
+        questionId: 88ff1cfa-ef16-5000-b1dd-468bcdd726a0
+        kira: {fileID: 8300000, guid: 1cd32e9acd6f39042ac1a9b823dbb083, type: 3}
+        eyra: {fileID: 8300000, guid: ea47e86f41452d643b8f2f1aaecebb31, type: 3}
+        pasa: {fileID: 8300000, guid: c0c9e2f8b0a94364a83d82bd6381a5d5, type: 3}
+      - label: Deskripsi Hewan KAMBING
+        questionId: 8e32417b-02a4-5410-ad35-ad7d36adc755
+        kira: {fileID: 8300000, guid: f5143eaed126282479743c4ac2718148, type: 3}
+        eyra: {fileID: 8300000, guid: 31a09e6269220b74d9a746a952eb11d5, type: 3}
+        pasa: {fileID: 8300000, guid: 500dd0b59f34e5d43bdc018f93cd1c91, type: 3}
+      - label: Deskripsi Hewan SAPI
+        questionId: b5827e25-696a-5a76-99dd-976c33fe0931
+        kira: {fileID: 8300000, guid: 808f3637fac046847add61f4c0eec87a, type: 3}
+        eyra: {fileID: 8300000, guid: fb630aba7142456448f055f7505b8288, type: 3}
+        pasa: {fileID: 8300000, guid: 12e9bcc546933074e84a99a203fff7d9, type: 3}
+      - label: Deskripsi Hewan MONYET
+        questionId: 2bcb5234-d426-53c4-9444-194f29bd7b20
+        kira: {fileID: 8300000, guid: 2ad67ff9f77986247a5bd2664c3f196c, type: 3}
+        eyra: {fileID: 8300000, guid: e83eb3fa4f24e954a8a3e6c77249682c, type: 3}
+        pasa: {fileID: 8300000, guid: d6d7dd415c8fa8441bc3260b89a9eb50, type: 3}
+      - label: Deskripsi Hewan BEBEK
+        questionId: 7cfce025-6675-5f3d-8989-f74f5c642e96
+        kira: {fileID: 8300000, guid: 702eabffb26171746b3a59df65856920, type: 3}
+        eyra: {fileID: 8300000, guid: d10aeb0dc890e564798ca39ceaf04dd3, type: 3}
+        pasa: {fileID: 8300000, guid: a7ab317e1e19a164894e05ca2cab49c7, type: 3}
+      - label: Deskripsi Hewan JANGKRIK
+        questionId: 3c0f5e05-16d5-556d-8dd2-1ddfd4ca8a13
+        kira: {fileID: 8300000, guid: d116a2bae65b29143aad893f28bc77e8, type: 3}
+        eyra: {fileID: 8300000, guid: 707dfe05af63f89458c11c78e467324f, type: 3}
+        pasa: {fileID: 8300000, guid: 7aa695a8e1b6c1e4f96e4e2a53d94a38, type: 3}
+      - label: Deskripsi Hewan BABI
+        questionId: c7e56c4c-406a-5419-a775-6f8e6c50b6fb
+        kira: {fileID: 8300000, guid: f40ea4c2a0109b34a977b400e8b71dc1, type: 3}
+        eyra: {fileID: 8300000, guid: f433774043fb31046b94a9bb72fd5ae5, type: 3}
+        pasa: {fileID: 8300000, guid: 25cacfd39f6508e4f8be48faf508ec9f, type: 3}
+      - label: Deskripsi Hewan AYAM
+        questionId: 734af143-e39e-5b19-b3a8-7010fdd90ab1
+        kira: {fileID: 8300000, guid: 7ac0efe004a7c20468e7a37f68da6483, type: 3}
+        eyra: {fileID: 8300000, guid: 931415377ea64614882b6cd93cbc57df, type: 3}
+        pasa: {fileID: 8300000, guid: f457e79bfc10c08469e7cde39325dcb4, type: 3}
+      - label: Deskripsi Hewan KATAK
+        questionId: c1365a43-672e-5d12-8873-b54d546637ef
+        kira: {fileID: 8300000, guid: 2fe9225d9ad2b0a42822daf676ff60b8, type: 3}
+        eyra: {fileID: 8300000, guid: db5b8300003fd0d42b1e4f628356a1e1, type: 3}
+        pasa: {fileID: 8300000, guid: 52e5188590864bd4bbd537b3bbcbae58, type: 3}
+      - label: Deskripsi Hewan KUCING
+        questionId: ebf342e6-ab71-5cbc-a7f4-f2d5c87e8e19
+        kira: {fileID: 8300000, guid: 89b3eed3a4bb36645a69e797c02332d4, type: 3}
+        eyra: {fileID: 8300000, guid: b0136d7aea4304f4bae61b30a1b93acc, type: 3}
+        pasa: {fileID: 8300000, guid: 15b1c8cc9ad621641a9e6853ad548e74, type: 3}
+    - name: Tebak Suara
+      questions:
+      - label: Tebak Suara ANJING
+        questionId: 0ba48775-ab64-5eb9-8509-f5d672f4e5b3
+        kira: {fileID: 8300000, guid: 1726c4c87519b294bbc5b88389f148fd, type: 3}
+        eyra: {fileID: 8300000, guid: 58a6a04e5a1166e4ca44e34eed5b059f, type: 3}
+        pasa: {fileID: 8300000, guid: 451400de5b5435648a7da78ab87bb297, type: 3}
+      - label: Tebak Suara AYAM
+        questionId: 571ad958-9e39-500e-a609-990811415c0d
+        kira: {fileID: 8300000, guid: 43bec7b656424d4458962a667905a0ea, type: 3}
+        eyra: {fileID: 8300000, guid: 1671f64f0d85fcc48a7d09bfdf7f817e, type: 3}
+        pasa: {fileID: 8300000, guid: 95ab8cc08838127419cf59d1231115a8, type: 3}
+      - label: Tebak Suara BABI
+        questionId: 8331478a-eaca-5529-9047-bedbd95a41fa
+        kira: {fileID: 8300000, guid: 2bc892d5643eda04b9da1b6ddcea2b48, type: 3}
+        eyra: {fileID: 8300000, guid: 29700b1269a76e04db23163ccfcea8c4, type: 3}
+        pasa: {fileID: 8300000, guid: 6bb0bf0d93f32b048b907f23ed2d97c2, type: 3}
+      - label: Tebak Suara BEBEK
+        questionId: e069d607-80cf-55b0-a5d7-fe86c3dc3ba6
+        kira: {fileID: 8300000, guid: 33cf5c945c7b0a645887e33383270177, type: 3}
+        eyra: {fileID: 8300000, guid: 1c889bd46f7036f4cb25956fa880fbc9, type: 3}
+        pasa: {fileID: 8300000, guid: 6340dc9be10ce484f90a94165b734158, type: 3}
+      - label: Tebak Suara JANGKRIK
+        questionId: 7ac17259-3756-54de-90b6-06924e901b6b
+        kira: {fileID: 8300000, guid: 83bc4b403e146544a88c2c53097ae088, type: 3}
+        eyra: {fileID: 8300000, guid: 96c4ad5b98081c54091e7570a8d6ac31, type: 3}
+        pasa: {fileID: 8300000, guid: e1523b8d925e9aa4587b69a9e4c945d3, type: 3}
+      - label: Tebak Suara KAMBING
+        questionId: 5689c0b6-9de5-50e6-8e48-c171639b20c9
+        kira: {fileID: 8300000, guid: dbab7c76b2e3d7540936d0761a4c739c, type: 3}
+        eyra: {fileID: 8300000, guid: cc2bbbc42570f2246b28e1c9b45b4c6f, type: 3}
+        pasa: {fileID: 8300000, guid: d61b1ed5f49977d4eb0b0018e3752f20, type: 3}
+      - label: Tebak Suara KATAK
+        questionId: cbf0eab4-057f-5478-9cf5-dd3ea61ddca9
+        kira: {fileID: 8300000, guid: a69a2748a4081844181951fb7ea71296, type: 3}
+        eyra: {fileID: 8300000, guid: fa72f6dcd5be44b40be0ffec76245abe, type: 3}
+        pasa: {fileID: 8300000, guid: 788d3d530e8f5f14784471cb44a5d2e1, type: 3}
+      - label: Tebak Suara KUCING
+        questionId: 006c2f06-b317-54c6-8849-b7a84e7867d1
+        kira: {fileID: 8300000, guid: eba880521806ee44890726790a2e8508, type: 3}
+        eyra: {fileID: 8300000, guid: d06ebdab8aad02442938b39f157fde98, type: 3}
+        pasa: {fileID: 8300000, guid: 266d9fe04d26bee46a6a1e741788e386, type: 3}
+      - label: Tebak Suara MONYET
+        questionId: 50200d2b-29fc-5441-8a47-9e46af19a6b6
+        kira: {fileID: 8300000, guid: 1675c5f6f2759514785caac7b02f92a0, type: 3}
+        eyra: {fileID: 8300000, guid: ddcade5a5519797459feac188f146b01, type: 3}
+        pasa: {fileID: 8300000, guid: b41e9c10a3cc8674db5ff5f4b0443f54, type: 3}
+      - label: Tebak Suara SAPI
+        questionId: c5133cf2-7e8c-5fd6-afbb-d6498ead99b9
+        kira: {fileID: 8300000, guid: db8350d34613aaf4da903ccc02415d8e, type: 3}
+        eyra: {fileID: 8300000, guid: de2ad54139fd46c42809c69e80361015, type: 3}
+        pasa: {fileID: 8300000, guid: 1c52b60ccb8e9fa4889c537da0d42eeb, type: 3}
+  - name: Warna
+    subgames:
+    - name: Tebak Warna
+      questions:
+      - label: Tebak Warna BIRU
+        questionId: af09e033-250b-4b98-a1d2-9b10bdf9de02
+        kira: {fileID: 8300000, guid: 9c1ebd15b1d6a534cab6a226be6449b0, type: 3}
+        eyra: {fileID: 8300000, guid: 3d3cc9ba88e961342b8631e4a849ed8f, type: 3}
+        pasa: {fileID: 8300000, guid: b1bd48a04fd469d409ad28204df1a98e, type: 3}
+      - label: Tebak Warna HIJAU
+        questionId: 1e1aedaa-a8a9-4ff0-a91e-271842b7ff42
+        kira: {fileID: 8300000, guid: f6ce475e2a3e5ae4a8121fc97e2e773b, type: 3}
+        eyra: {fileID: 8300000, guid: a0028cf03f5fad14faa37f0c6d9fbbd0, type: 3}
+        pasa: {fileID: 8300000, guid: 75948fc5784b8b545ba91238629af82f, type: 3}
+      - label: Tebak Warna JINGGA
+        questionId: c9b82cbc-8e18-43f2-ae05-96247e28274c
+        kira: {fileID: 8300000, guid: 69cb147356caa1e4f8d432fa05185a90, type: 3}
+        eyra: {fileID: 8300000, guid: 5392416f345188642b2a437e5ad85a3a, type: 3}
+        pasa: {fileID: 8300000, guid: 9d91f2d861a512e47843fc27e4029de4, type: 3}
+      - label: Tebak Warna KUNING
+        questionId: a0fbf9b5-feef-45c3-b10a-3a2309fc4231
+        kira: {fileID: 8300000, guid: ba8c9e1c1da8da34aae738cd8f293e35, type: 3}
+        eyra: {fileID: 8300000, guid: a7b02b7c57ad49f44a08c22206fb5793, type: 3}
+        pasa: {fileID: 8300000, guid: 53d0843296e2a4443a1a7dd555a46909, type: 3}
+      - label: Tebak Warna MERAH
+        questionId: 7a250b38-3fa9-403a-8652-7b5feb32b9aa
+        kira: {fileID: 8300000, guid: 9447c2a45da22104581463b684f71fec, type: 3}
+        eyra: {fileID: 8300000, guid: 2cc84912807e9df4fa780374c32166ef, type: 3}
+        pasa: {fileID: 8300000, guid: 6d9f1fbb753fb074dae26ac598765e67, type: 3}
+      - label: Tebak Warna UNGU
+        questionId: 6e5a1e52-26ef-4364-93be-126753fecd1a
+        kira: {fileID: 8300000, guid: c73db73f1dee2a540b7019cb2ad46a8f, type: 3}
+        eyra: {fileID: 8300000, guid: ba40347d5db7e1542a7773cc673e5004, type: 3}
+        pasa: {fileID: 8300000, guid: 97ee1b4229a97a949a722cf780b3d1fd, type: 3}
+      - label: Tebak Warna Biru
+        questionId: eb720f41-ccc9-5579-9c76-aaf690d3efbe
+        kira: {fileID: 8300000, guid: 9c1ebd15b1d6a534cab6a226be6449b0, type: 3}
+        eyra: {fileID: 8300000, guid: 3d3cc9ba88e961342b8631e4a849ed8f, type: 3}
+        pasa: {fileID: 8300000, guid: b1bd48a04fd469d409ad28204df1a98e, type: 3}
+      - label: Tebak Warna Hijau
+        questionId: ad189849-5b3f-569b-bfc9-c604bc6bac4f
+        kira: {fileID: 8300000, guid: f6ce475e2a3e5ae4a8121fc97e2e773b, type: 3}
+        eyra: {fileID: 8300000, guid: a0028cf03f5fad14faa37f0c6d9fbbd0, type: 3}
+        pasa: {fileID: 8300000, guid: 75948fc5784b8b545ba91238629af82f, type: 3}
+      - label: Tebak Warna Jingga
+        questionId: 461f7a28-1721-5ece-a29d-cc542ae163c4
+        kira: {fileID: 8300000, guid: 69cb147356caa1e4f8d432fa05185a90, type: 3}
+        eyra: {fileID: 8300000, guid: 5392416f345188642b2a437e5ad85a3a, type: 3}
+        pasa: {fileID: 8300000, guid: 9d91f2d861a512e47843fc27e4029de4, type: 3}
+      - label: Tebak Warna Kuning
+        questionId: d5ecf875-47ce-59ba-95dd-9018b9123487
+        kira: {fileID: 8300000, guid: ba8c9e1c1da8da34aae738cd8f293e35, type: 3}
+        eyra: {fileID: 8300000, guid: a7b02b7c57ad49f44a08c22206fb5793, type: 3}
+        pasa: {fileID: 8300000, guid: 53d0843296e2a4443a1a7dd555a46909, type: 3}
+      - label: Tebak Warna Merah
+        questionId: 5a98ca1e-dd0f-55a6-bc7f-51fb695ee3f0
+        kira: {fileID: 8300000, guid: 9447c2a45da22104581463b684f71fec, type: 3}
+        eyra: {fileID: 8300000, guid: 2cc84912807e9df4fa780374c32166ef, type: 3}
+        pasa: {fileID: 8300000, guid: 6d9f1fbb753fb074dae26ac598765e67, type: 3}
+      - label: Tebak Warna Ungu
+        questionId: 07d9f9ec-7174-5895-94a6-2211de0244e0
+        kira: {fileID: 8300000, guid: c73db73f1dee2a540b7019cb2ad46a8f, type: 3}
+        eyra: {fileID: 8300000, guid: ba40347d5db7e1542a7773cc673e5004, type: 3}
+        pasa: {fileID: 8300000, guid: 97ee1b4229a97a949a722cf780b3d1fd, type: 3}
+  - name: Belajar
+    subgames:
+    - name: Huruf
+      questions:
+      - label: Belajar A
+        questionId: belajar:huruf:a
+        kira: {fileID: 8300000, guid: 2876df7bca38df64396bcad1e724036c, type: 3}
+        eyra: {fileID: 8300000, guid: abeb0a63a03197b479fba7a1134c6fb2, type: 3}
+        pasa: {fileID: 8300000, guid: 373ca9df1d9df274c884f4d016fad3d3, type: 3}
+      - label: Belajar B
+        questionId: belajar:huruf:b
+        kira: {fileID: 8300000, guid: 91329e11d20de2a45a250a1e778b43b1, type: 3}
+        eyra: {fileID: 8300000, guid: a98ca7efad3f5304a9379a9610d3fd06, type: 3}
+        pasa: {fileID: 8300000, guid: e12a733aacb4af24ba794fbe4ca997d3, type: 3}
+      - label: Belajar C
+        questionId: belajar:huruf:c
+        kira: {fileID: 8300000, guid: 98cfcd1cf11e844469b9260a3201646f, type: 3}
+        eyra: {fileID: 8300000, guid: cd57416c1448d224f9e922572149b2be, type: 3}
+        pasa: {fileID: 8300000, guid: 8c84e3038f5080d45844fe99fb1265c5, type: 3}
+      - label: Belajar D
+        questionId: belajar:huruf:d
+        kira: {fileID: 8300000, guid: 926d04ba92cfd4a478e14d37174d4c1c, type: 3}
+        eyra: {fileID: 8300000, guid: 5f904d4eea27ffe498e1a7af57be64b8, type: 3}
+        pasa: {fileID: 8300000, guid: 3481d05c8b861d546b8efb57fa318f5d, type: 3}
+      - label: Belajar E
+        questionId: belajar:huruf:e
+        kira: {fileID: 8300000, guid: a3bf506db9322874b8ad91415cbafa82, type: 3}
+        eyra: {fileID: 8300000, guid: 2782eea1c4dd4694cabb9c905f10a1d8, type: 3}
+        pasa: {fileID: 8300000, guid: fdeae055baf477f4bb13b02ae0102992, type: 3}
+      - label: Belajar F
+        questionId: belajar:huruf:f
+        kira: {fileID: 8300000, guid: 4bc9641ee68f1f747996b9364935816b, type: 3}
+        eyra: {fileID: 8300000, guid: 6f3b8f2b845493e4fb48e75ba80c5d20, type: 3}
+        pasa: {fileID: 8300000, guid: e45941b54d391be4dadc5607506a0544, type: 3}
+      - label: Belajar G
+        questionId: belajar:huruf:g
+        kira: {fileID: 8300000, guid: c1ea58952bd9ad948b2eb38463f31f63, type: 3}
+        eyra: {fileID: 8300000, guid: abe46437fde67e64489df23aed8b0be1, type: 3}
+        pasa: {fileID: 8300000, guid: 219eddf6cc0ac79429c26cfc66b80d2f, type: 3}
+      - label: Belajar H
+        questionId: belajar:huruf:h
+        kira: {fileID: 8300000, guid: 53d9b023294d12642b425cc4983efafc, type: 3}
+        eyra: {fileID: 8300000, guid: b73735f6bf032b04f84b6e430a2b3d42, type: 3}
+        pasa: {fileID: 8300000, guid: 3e3e656ab7c67bf4ea022a9347ad46aa, type: 3}
+      - label: Belajar I
+        questionId: belajar:huruf:i
+        kira: {fileID: 8300000, guid: c2da62c1ed4de9c42a9d82ac904c6adc, type: 3}
+        eyra: {fileID: 8300000, guid: c4869925c2b458a459791d3ebb9d5091, type: 3}
+        pasa: {fileID: 8300000, guid: cf17b7c9316ce3245af7dda510a31e5c, type: 3}
+      - label: Belajar J
+        questionId: belajar:huruf:j
+        kira: {fileID: 8300000, guid: a4a5da9f8c2cee2468b3e2eb6819ed17, type: 3}
+        eyra: {fileID: 8300000, guid: 383d6e9e67f59b64f883d1a0926d7ec6, type: 3}
+        pasa: {fileID: 8300000, guid: 96eb8658e2a15bd47b59fe2e699a3d57, type: 3}
+      - label: Belajar K
+        questionId: belajar:huruf:k
+        kira: {fileID: 8300000, guid: 5abb27bc10027d94f8e263c7ece9b539, type: 3}
+        eyra: {fileID: 8300000, guid: 64c1b510c26a99744b621edd983ce59b, type: 3}
+        pasa: {fileID: 8300000, guid: 8dc30d73e10bbc54f80c4d1bec858d7e, type: 3}
+      - label: Belajar L
+        questionId: belajar:huruf:l
+        kira: {fileID: 8300000, guid: 0b2af0c02b91164459ff6b5fe1e08575, type: 3}
+        eyra: {fileID: 8300000, guid: 1ec98b6820af5e346bf177cfe7bc5ba0, type: 3}
+        pasa: {fileID: 8300000, guid: 93cc501d94d533e48906dfff052be01c, type: 3}
+      - label: Belajar M
+        questionId: belajar:huruf:m
+        kira: {fileID: 8300000, guid: 2a1a7521b3c6a1042af8483602232194, type: 3}
+        eyra: {fileID: 8300000, guid: ae16f6651d78ade4c905c35497f1e908, type: 3}
+        pasa: {fileID: 8300000, guid: 8b01cc5f007a6df4495b72527add7a9b, type: 3}
+      - label: Belajar N
+        questionId: belajar:huruf:n
+        kira: {fileID: 8300000, guid: f132cb1103ad24048ac6f979611960eb, type: 3}
+        eyra: {fileID: 8300000, guid: dd8f6d5129ef94344a91fbf9cc1fe3df, type: 3}
+        pasa: {fileID: 8300000, guid: cbbb0de578f0d5e428cd778087349f9f, type: 3}
+      - label: Belajar O
+        questionId: belajar:huruf:o
+        kira: {fileID: 8300000, guid: 8ea9a48efbed1d847a22d66ccd98f9e7, type: 3}
+        eyra: {fileID: 8300000, guid: 0d2242b63da12bb4382cd31325e0bc82, type: 3}
+        pasa: {fileID: 8300000, guid: 6df322256b223b946b0c40eb24addb69, type: 3}
+      - label: Belajar P
+        questionId: belajar:huruf:p
+        kira: {fileID: 8300000, guid: c5234f74bcaa15f4c93a82821d4c5c3b, type: 3}
+        eyra: {fileID: 8300000, guid: d9dfaa93ef3f24f4ca0ba16e2fdcb724, type: 3}
+        pasa: {fileID: 8300000, guid: 5c1984cb4a9df1f43821d38fb840c6e7, type: 3}
+      - label: Belajar Q
+        questionId: belajar:huruf:q
+        kira: {fileID: 8300000, guid: 0b3f57b8d0bdd0f47b95b559cb637d0b, type: 3}
+        eyra: {fileID: 8300000, guid: 27997fdfdd3a9e346bc6aa32fdc2380c, type: 3}
+        pasa: {fileID: 8300000, guid: 7060c6aa58864904cb23b81ba0806e1f, type: 3}
+      - label: Belajar R
+        questionId: belajar:huruf:r
+        kira: {fileID: 8300000, guid: bd9a5c31a8f9eef41a606122b2e3ffc6, type: 3}
+        eyra: {fileID: 8300000, guid: a62d747599f29534ba04b70a1ac42f26, type: 3}
+        pasa: {fileID: 8300000, guid: 45bc29f2f8ce77449a50440b11d79fc3, type: 3}
+      - label: Belajar S
+        questionId: belajar:huruf:s
+        kira: {fileID: 8300000, guid: 4b727eb2696cbc24990d65364215a948, type: 3}
+        eyra: {fileID: 8300000, guid: 4f07425cb3694ee46ae44a8d27a3f770, type: 3}
+        pasa: {fileID: 8300000, guid: fa28a3219edef954bbafbdd68192ac68, type: 3}
+      - label: Belajar T
+        questionId: belajar:huruf:t
+        kira: {fileID: 8300000, guid: 7b37ac3c0ff97c443939638d0e5fde01, type: 3}
+        eyra: {fileID: 8300000, guid: 0cfaee29cffdf264c9fbaa896024e468, type: 3}
+        pasa: {fileID: 8300000, guid: d95c9766343dd5c47b208a20ff77cf68, type: 3}
+      - label: Belajar U
+        questionId: belajar:huruf:u
+        kira: {fileID: 8300000, guid: 8b2d7bc0528d2174ab0e068d31be8252, type: 3}
+        eyra: {fileID: 8300000, guid: f39e21cb2796d504899fc28ba167f705, type: 3}
+        pasa: {fileID: 8300000, guid: 0803735de061665479d3d3d331e7ac29, type: 3}
+      - label: Belajar V
+        questionId: belajar:huruf:v
+        kira: {fileID: 8300000, guid: 629a4e19872c97c49b21014af953d67a, type: 3}
+        eyra: {fileID: 8300000, guid: 05e5b842d350a1c479fda1d4f6d17529, type: 3}
+        pasa: {fileID: 8300000, guid: 2bee8cc6bc534544aba749e5803062c3, type: 3}
+      - label: Belajar W
+        questionId: belajar:huruf:w
+        kira: {fileID: 8300000, guid: 87041e95b4b6160449e63cdc670ce76f, type: 3}
+        eyra: {fileID: 8300000, guid: 54e980f1d92ad6743b09779148e10f58, type: 3}
+        pasa: {fileID: 8300000, guid: 020c72e177421374caee3e3387aac7a5, type: 3}
+      - label: Belajar X
+        questionId: belajar:huruf:x
+        kira: {fileID: 8300000, guid: dad87fdd9dfedfc49a12fadc26cd0a0e, type: 3}
+        eyra: {fileID: 8300000, guid: f84218f766fa1e6418cc1f4289f42734, type: 3}
+        pasa: {fileID: 8300000, guid: 6a684ab8a2ff93546a8d82a3fa5c4f15, type: 3}
+      - label: Belajar Y
+        questionId: belajar:huruf:y
+        kira: {fileID: 8300000, guid: 072767ca8c7684d4688d0a1e15c80a92, type: 3}
+        eyra: {fileID: 8300000, guid: 0a7cc8b3ef1d78e4db3078b9beb8740f, type: 3}
+        pasa: {fileID: 8300000, guid: 11df871d1ce85c9448dc5d001381e5eb, type: 3}
+      - label: Belajar Z
+        questionId: belajar:huruf:z
+        kira: {fileID: 8300000, guid: 1021ac0549d01014ca2657a719e951c8, type: 3}
+        eyra: {fileID: 8300000, guid: f5b2e65b867f31949bd8b3d4c2c2d729, type: 3}
+        pasa: {fileID: 8300000, guid: 2e69e520168eecb4abee359031f88b0d, type: 3}
+    - name: Angka
+      questions:
+      - label: Belajar 0
+        questionId: belajar:angka:0
+        kira: {fileID: 8300000, guid: 0a09a566cb51dfa46bfa62bc05496330, type: 3}
+        eyra: {fileID: 8300000, guid: 4306eec369d533646a6092015e8a18ed, type: 3}
+        pasa: {fileID: 8300000, guid: 8f2881e00d0010f41a1350972af39350, type: 3}
+      - label: Belajar 1
+        questionId: belajar:angka:1
+        kira: {fileID: 8300000, guid: 9215495f1a62cb2479e214e39dc43e9f, type: 3}
+        eyra: {fileID: 8300000, guid: 176ca709dbc3d3a4f94d096936f4763e, type: 3}
+        pasa: {fileID: 8300000, guid: 3f3983c3e00e973478ed4c1604e7bf21, type: 3}
+      - label: Belajar 2
+        questionId: belajar:angka:2
+        kira: {fileID: 8300000, guid: e55c5a362b60813449b902185109a90e, type: 3}
+        eyra: {fileID: 8300000, guid: 7ebcff5903e6e214dab667811cee0dc9, type: 3}
+        pasa: {fileID: 8300000, guid: c55c010e0e59a12478999938d0c9497f, type: 3}
+      - label: Belajar 3
+        questionId: belajar:angka:3
+        kira: {fileID: 8300000, guid: 0bc7095cb6951074abc407e4db8d673c, type: 3}
+        eyra: {fileID: 8300000, guid: d72804a843c58ab438102e9fe2fe47ed, type: 3}
+        pasa: {fileID: 8300000, guid: 74c26914c8c50a94182addc3034d292d, type: 3}
+      - label: Belajar 4
+        questionId: belajar:angka:4
+        kira: {fileID: 8300000, guid: 5fbd623e55e49ee4c8933c7243778fce, type: 3}
+        eyra: {fileID: 8300000, guid: 0348ec1f42e92074d9e7a77cd588759e, type: 3}
+        pasa: {fileID: 8300000, guid: 20cb020ceeee6754492099fd9c85fdfa, type: 3}
+      - label: Belajar 5
+        questionId: belajar:angka:5
+        kira: {fileID: 8300000, guid: 69f95a2cac69d864e9f5a742b4dea58a, type: 3}
+        eyra: {fileID: 8300000, guid: a72bdef5ea59a8740aabc82b05e1b2be, type: 3}
+        pasa: {fileID: 8300000, guid: 62dfde58256388f48aa2e0b058fc93ca, type: 3}
+      - label: Belajar 6
+        questionId: belajar:angka:6
+        kira: {fileID: 8300000, guid: 03a541d825f2b4840bee00b9d7428c99, type: 3}
+        eyra: {fileID: 8300000, guid: fe2faeec63111bd4094aa9b4fa16076d, type: 3}
+        pasa: {fileID: 8300000, guid: 987496eb1e700e7469c39d010bc66f5e, type: 3}
+      - label: Belajar 7
+        questionId: belajar:angka:7
+        kira: {fileID: 8300000, guid: a53fe96532f3c3b479051ba86ba0c679, type: 3}
+        eyra: {fileID: 8300000, guid: b935330e1b3df9e4b9ff6227a0f4f9ba, type: 3}
+        pasa: {fileID: 8300000, guid: 59833bce96a706f42b956f1ee6c5a878, type: 3}
+      - label: Belajar 8
+        questionId: belajar:angka:8
+        kira: {fileID: 8300000, guid: 520258bd6fc95314eadfab451d27159a, type: 3}
+        eyra: {fileID: 8300000, guid: cc85bc5465bd1254ba70cd5a945be844, type: 3}
+        pasa: {fileID: 8300000, guid: fdaaa9e1b267d57458756fc310a0fe5b, type: 3}
+      - label: Belajar 9
+        questionId: belajar:angka:9
+        kira: {fileID: 8300000, guid: 45a7ed1fa8dd8514fb1981ddbc6d7883, type: 3}
+        eyra: {fileID: 8300000, guid: 93e1d421df4910c44a6dc3c72797e7dc, type: 3}
+        pasa: {fileID: 8300000, guid: 8717e3f2675d53241a76addd570697eb, type: 3}
+    - name: Warna
+      questions:
+      - label: Belajar Biru
+        questionId: belajar:warna:biru
+        kira: {fileID: 8300000, guid: f1705b710e8dd9844982c086132d4bd2, type: 3}
+        eyra: {fileID: 8300000, guid: fae62b24584f8d04da0272991450cad8, type: 3}
+        pasa: {fileID: 8300000, guid: dbfd2883ae42a044aa8905f6c2e2532d, type: 3}
+      - label: Belajar Hijau
+        questionId: belajar:warna:hijau
+        kira: {fileID: 8300000, guid: 63ffd2e1bfa265642a310c0c51519229, type: 3}
+        eyra: {fileID: 8300000, guid: 8c1e8d44dc5a46f41b0f22c57d6784d5, type: 3}
+        pasa: {fileID: 8300000, guid: 973f843ef20d91f429cf37e0edcdd829, type: 3}
+      - label: Belajar Jingga
+        questionId: belajar:warna:jingga
+        kira: {fileID: 8300000, guid: 0426dc44a3341954eaa3f1ea14164ebb, type: 3}
+        eyra: {fileID: 8300000, guid: 20de20824c7035f419d4db8245f676bb, type: 3}
+        pasa: {fileID: 8300000, guid: fc3ad56e308b5a746a7c9221eb3dbd13, type: 3}
+      - label: Belajar Kuning
+        questionId: belajar:warna:kuning
+        kira: {fileID: 8300000, guid: 1871ebda54e701c4cbc53b79bd25e265, type: 3}
+        eyra: {fileID: 8300000, guid: 01c19be232d55134d87340375bc56695, type: 3}
+        pasa: {fileID: 8300000, guid: c9845d27a39ae3d4a932e49371a333b0, type: 3}
+      - label: Belajar Merah
+        questionId: belajar:warna:merah
+        kira: {fileID: 8300000, guid: 5b73e4ab381cf7b43b5607be98ee5ad3, type: 3}
+        eyra: {fileID: 8300000, guid: 93843591e16909742abd66244043b071, type: 3}
+        pasa: {fileID: 8300000, guid: 101a30c86b40c1448b56ef22c099ee13, type: 3}
+      - label: Belajar Ungu
+        questionId: belajar:warna:ungu
+        kira: {fileID: 8300000, guid: 0fa639fb19d25ce47967b715def39129, type: 3}
+        eyra: {fileID: 8300000, guid: b3e9e09640773c84f8ebbc41765de038, type: 3}
+        pasa: {fileID: 8300000, guid: f42b6ea7a12fc6b419069c6ee829451b, type: 3}
+    - name: Hewan
+      questions:
+      - label: Belajar Anjing
+        questionId: belajar:hewan:anjing
+        kira: {fileID: 8300000, guid: fd84929f40438774a8a0182fe7aba60e, type: 3}
+        eyra: {fileID: 8300000, guid: 4697e4d7561e86444954badeb46003dc, type: 3}
+        pasa: {fileID: 8300000, guid: 53420d3abc90f704f9e36b7d2c68aa3f, type: 3}
+      - label: Belajar Ayam
+        questionId: belajar:hewan:ayam
+        kira: {fileID: 8300000, guid: fb845a485c96b264aa2100618694e901, type: 3}
+        eyra: {fileID: 8300000, guid: 2d7537ef8abca8b4d9f21edc716ebff2, type: 3}
+        pasa: {fileID: 8300000, guid: 28c0daa63cafc94418a858c99178df98, type: 3}
+      - label: Belajar Babi
+        questionId: belajar:hewan:babi
+        kira: {fileID: 8300000, guid: 67e75f39d17f0ce46ae394d57fe4f25c, type: 3}
+        eyra: {fileID: 8300000, guid: 94e932ba6b403e647b4c808c44dbc8dc, type: 3}
+        pasa: {fileID: 8300000, guid: 9221e2f2c872ac2428b485d4484cb02f, type: 3}
+      - label: Belajar Bebek
+        questionId: belajar:hewan:bebek
+        kira: {fileID: 8300000, guid: 211521231753ab242a16ded00d2d5d13, type: 3}
+        eyra: {fileID: 8300000, guid: 89d1b512927353e4db6dd127a52a5568, type: 3}
+        pasa: {fileID: 8300000, guid: 5c68c17c133fabe4b826baf3fdcbba01, type: 3}
+      - label: Belajar Jangkrik
+        questionId: belajar:hewan:jangkrik
+        kira: {fileID: 8300000, guid: e3ee221d7e8105140bc03af4d53c0e46, type: 3}
+        eyra: {fileID: 8300000, guid: 948c781eacb9d3f4881f8d1e5db60670, type: 3}
+        pasa: {fileID: 8300000, guid: a16156a5bc5d9d643bc37e33b4b8291b, type: 3}
+      - label: Belajar Kambing
+        questionId: belajar:hewan:kambing
+        kira: {fileID: 8300000, guid: c896fb212224a6442ba0f2734e624e5e, type: 3}
+        eyra: {fileID: 8300000, guid: 3db5a514ef50bfa44a8039e65b321356, type: 3}
+        pasa: {fileID: 8300000, guid: 29f10ccbe526b564d83d132e7e49660e, type: 3}
+      - label: Belajar Katak
+        questionId: belajar:hewan:katak
+        kira: {fileID: 8300000, guid: 08683c49bb3f67a4fb21d87c5bf9aa47, type: 3}
+        eyra: {fileID: 8300000, guid: e0495bfa8bc74ad4ba690ec1406fbe3e, type: 3}
+        pasa: {fileID: 8300000, guid: ff7c7dba22d4cc746aa1432ab3b16c7c, type: 3}
+      - label: Belajar Kucing
+        questionId: belajar:hewan:kucing
+        kira: {fileID: 8300000, guid: a08556fb0acc5ed48b5a3707141468b4, type: 3}
+        eyra: {fileID: 8300000, guid: ab91d4ba85593f242948f77979bf60a2, type: 3}
+        pasa: {fileID: 8300000, guid: 1c01e6d69722a2d4e86dbc9a4e4ab540, type: 3}
+      - label: Belajar Monyet
+        questionId: belajar:hewan:monyet
+        kira: {fileID: 8300000, guid: b047832246e29c74e81b931e13d7bbf9, type: 3}
+        eyra: {fileID: 8300000, guid: af48b425da41f11409d4d179775df981, type: 3}
+        pasa: {fileID: 8300000, guid: a8e6f7b20fa038d44a71f18587c4e9e9, type: 3}
+      - label: Belajar Sapi
+        questionId: belajar:hewan:sapi
+        kira: {fileID: 8300000, guid: 9d6fb7193d4a4b442b577b7e698fb33e, type: 3}
+        eyra: {fileID: 8300000, guid: 7bccb8fc33be8874f8b5898ce4b776e3, type: 3}
+        pasa: {fileID: 8300000, guid: d1e7bd4d30cbebe4a85fc7c7f2d7861d, type: 3}
+  - name: Feedback
+    subgames:
+    - name: Umum
+      questions:
+      - label: Reward
+        questionId: feedback:reward
+        kira: {fileID: 8300000, guid: a695719bc99b5a24c86a4d63e3e9db0a, type: 3}
+        eyra: {fileID: 8300000, guid: d0432476144aa204e85167eef3c35154, type: 3}
+        pasa: {fileID: 8300000, guid: fdc4367fd2c1abb4ca85b995c3200d13, type: 3}
+      - label: FeedbackBenar
+        questionId: feedback:benar
+        kira: {fileID: 8300000, guid: b10496be6387d5244a744310f9f787dc, type: 3}
+        eyra: {fileID: 8300000, guid: 9d210d4a42c62774d936511bfe46c455, type: 3}
+        pasa: {fileID: 8300000, guid: 791f5a5c8a2ff7c49ad82b1e82241567, type: 3}
+      - label: FeedbackSalah
+        questionId: feedback:salah
+        kira: {fileID: 8300000, guid: 6765f092ce7192143bb1cd94dd2e93fd, type: 3}
+        eyra: {fileID: 8300000, guid: 2d90aae8e9a6fad4ea671f49ae5a3600, type: 3}
+        pasa: {fileID: 8300000, guid: 51be51ca0d9bc0641bdb6aca88c0dcf0, type: 3}
+  questions: []
